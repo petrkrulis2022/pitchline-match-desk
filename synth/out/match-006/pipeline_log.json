@@ -1,0 +1,90 @@
+{
+ "summary": {
+  "seconds": 39,
+  "agent_calls": 18,
+  "commentator": {
+   "agent": 60,
+   "agent_fixed": 0,
+   "template_fallback": 0
+  },
+  "entries": 66,
+  "report_status": "agent",
+  "report_words": 755,
+  "entries_template_fallback": 0,
+  "translations_untranslated": 0
+ },
+ "calls": [
+  {
+   "agent": "Localizer-es",
+   "seconds": 3.7
+  },
+  {
+   "agent": "Localizer-es",
+   "seconds": 6.0
+  },
+  {
+   "agent": "Localizer-es",
+   "seconds": 8.0
+  },
+  {
+   "agent": "Localizer-es",
+   "seconds": 8.3
+  },
+  {
+   "agent": "Localizer-es",
+   "seconds": 10.0
+  },
+  {
+   "agent": "Localizer-es",
+   "seconds": 12.9
+  },
+  {
+   "agent": "Localizer-es",
+   "seconds": 13.0
+  },
+  {
+   "agent": "Localizer-es",
+   "seconds": 15.0
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 19.1
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 21.6
+  },
+  {
+   "agent": "Localizer-es",
+   "seconds": 22.5
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 24.7
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 26.8
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 28.5
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 28.8
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 32.0
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 33.5
+  },
+  {
+   "agent": "Localizer-cs",
+   "seconds": 38.7
+  }
+ ]
+}

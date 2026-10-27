@@ -1,0 +1,5084 @@
+{
+ "header": {
+  "competition": "Premier Division",
+  "season": "2026/2027",
+  "round": "11",
+  "kickoff_local": "2026-10-31 15:00",
+  "venue": "Harrowgate Park",
+  "period_length": 45,
+  "attendance": 38412,
+  "officials": {
+   "Main": "Gareth Aldous",
+   "Video Assistant Referee": "Simon Greaves"
+  },
+  "teams": {
+   "RMA": {
+    "name": "Redmoor Athletic",
+    "short": "Redmoor",
+    "code": "RMA",
+    "side": "home",
+    "kit": "#b3261e"
+   },
+   "STB": {
+    "name": "Stonebridge Town",
+    "short": "Stonebridge",
+    "code": "STB",
+    "side": "away",
+    "kit": "#1f4e9c"
+   }
+  },
+  "data_class": "synthetic"
+ },
+ "lineups": {
+  "RMA": {
+   "starting": [
+    "1 Marcus Eastley",
+    "2 Cai Wetherby",
+    "4 Ravi Yarrow",
+    "5 Tomas Holloway",
+    "3 Elliot Ibbotson",
+    "7 Marcus Ashdown",
+    "8 Marcus Upton",
+    "6 Dominic Sutcliffe",
+    "11 Connor Bexley",
+    "9 Dominic Fenner",
+    "10 Emeka Harcourt"
+   ],
+   "bench": [
+    "12 Mateo Kemble",
+    "13 Emeka Radley",
+    "14 Stefan Underhill",
+    "15 Cai Kerridge",
+    "16 Femi Whitlam",
+    "17 Idris Iredale",
+    "18 Kofi Garside"
+   ]
+  },
+  "STB": {
+   "starting": [
+    "1 Rhys Hallam",
+    "2 Aled Lowther",
+    "4 Marcus Lisle",
+    "5 Kofi Ormerod",
+    "3 Cai Quayle",
+    "7 Alfie Brigg",
+    "8 Joel Marlowe",
+    "6 Aled Stanhope",
+    "11 Nathan Yeoman",
+    "9 Cai Pargeter",
+    "10 Stefan Nairn"
+   ],
+   "bench": [
+    "12 Alfie Rudge",
+    "13 Owen Pickering",
+    "14 Kieran Nuttall",
+    "15 Luca Farrow",
+    "16 Elliot Trenholm",
+    "17 Cai Cleaver",
+    "18 Hugo Dunmore"
+   ]
+  }
+ },
+ "moments": [
+  {
+   "kind": "lineup",
+   "period": 1,
+   "sec": -5.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "formation": "4-4-2",
+    "goalkeeper": "1 Marcus Eastley",
+    "defenders": "2 Cai Wetherby, 4 Ravi Yarrow, 5 Tomas Holloway, 3 Elliot Ibbotson",
+    "midfielders": "7 Marcus Ashdown, 8 Marcus Upton, 6 Dominic Sutcliffe, 11 Connor Bexley",
+    "forwards": "9 Dominic Fenner, 10 Emeka Harcourt"
+   },
+   "weight": 3,
+   "sources": [],
+   "id": "m1",
+   "minute": "0'",
+   "clock": "0:00",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "lineup",
+   "period": 1,
+   "sec": -4.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "formation": "4-4-2",
+    "goalkeeper": "1 Rhys Hallam",
+    "defenders": "2 Aled Lowther, 4 Marcus Lisle, 5 Kofi Ormerod, 3 Cai Quayle",
+    "midfielders": "7 Alfie Brigg, 8 Joel Marlowe, 6 Aled Stanhope, 11 Nathan Yeoman",
+    "forwards": "9 Cai Pargeter, 10 Stefan Nairn"
+   },
+   "weight": 3,
+   "sources": [],
+   "id": "m2",
+   "minute": "0'",
+   "clock": "0:00",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "period_start",
+   "period": 1,
+   "sec": 0.0,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": 52.5,
+   "y": 34.0,
+   "detail": {},
+   "weight": 3,
+   "sources": [
+    1
+   ],
+   "id": "m3",
+   "minute": "1'",
+   "clock": "0:00",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 52.9,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Stefan Nairn",
+   "player_id": "STB10",
+   "x": 34.0,
+   "y": 40.7,
+   "detail": {
+    "fouled": "Dominic Sutcliffe",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    25
+   ],
+   "id": "m4",
+   "minute": "1'",
+   "clock": "0:52",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 138.7,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Stefan Nairn",
+   "player_id": "STB10",
+   "x": 33.3,
+   "y": 39.5,
+   "detail": {
+    "fouled": "Dominic Sutcliffe",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    62
+   ],
+   "id": "m5",
+   "minute": "3'",
+   "clock": "2:18",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 1,
+   "sec": 263.2,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 1,
+    "to_minute": 5,
+    "possession_pct": 55,
+    "field_tilt_pct": 64,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m6",
+   "minute": "5'",
+   "clock": "4:23",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 1,
+   "sec": 268.2,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 1
+   },
+   "weight": 2,
+   "sources": [
+    110
+   ],
+   "id": "m7",
+   "minute": "5'",
+   "clock": "4:28",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 1,
+   "sec": 286.3,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Marcus Lisle",
+   "player_id": "STB4",
+   "x": 97.1,
+   "y": 32.4,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    112
+   ],
+   "id": "m8",
+   "minute": "5'",
+   "clock": "4:46",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "pressing_win",
+   "period": 1,
+   "sec": 361.7,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Dominic Sutcliffe",
+   "player_id": "RMA6",
+   "x": 80.1,
+   "y": 39.9,
+   "detail": {
+    "action": "tackle"
+   },
+   "weight": 2,
+   "sources": [
+    139
+   ],
+   "id": "m9",
+   "minute": "7'",
+   "clock": "6:01",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "goal",
+   "period": 1,
+   "sec": 366.7,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 83.6,
+   "y": 39.7,
+   "detail": {
+    "situation": "open_play",
+    "assist": null,
+    "assist_kind": null,
+    "xg": 0.11
+   },
+   "weight": 4,
+   "sources": [
+    141,
+    140
+   ],
+   "event_id": 141,
+   "id": "m10",
+   "minute": "7'",
+   "clock": "6:06",
+   "score_after": [
+    1,
+    0
+   ],
+   "cancelled": true,
+   "vision": {
+    "check": "supported",
+    "frames": 4,
+    "attackers_within_30m_of_goal": 2.0
+   }
+  },
+  {
+   "kind": "var",
+   "period": 1,
+   "sec": 481.1,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 83.6,
+   "y": 39.7,
+   "detail": {
+    "decision": "cancelled",
+    "reason": "offside",
+    "goal_event": 141,
+    "cancelled_goal": "m10"
+   },
+   "weight": 5,
+   "sources": [
+    142
+   ],
+   "id": "m11",
+   "minute": "9'",
+   "clock": "8:01",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 602.9,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Cai Pargeter",
+   "player_id": "STB9",
+   "x": 60.4,
+   "y": 19.5,
+   "detail": {
+    "fouled": "Marcus Upton",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    195
+   ],
+   "id": "m12",
+   "minute": "11'",
+   "clock": "10:02",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 1,
+   "sec": 628.6,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 9,
+    "to_minute": 11,
+    "possession_pct": 82,
+    "field_tilt_pct": 100,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m13",
+   "minute": "11'",
+   "clock": "10:28",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 1,
+   "sec": 633.6,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 10,
+    "players": 4,
+    "start_minute_sec": 614,
+    "duration_sec": 19,
+    "progress_m": 9,
+    "ended_with": "lost the ball"
+   },
+   "weight": 2,
+   "sources": [
+    204,
+    205,
+    206
+   ],
+   "id": "m14",
+   "minute": "11'",
+   "clock": "10:33",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "pressing_win",
+   "period": 1,
+   "sec": 644.9,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Stefan Nairn",
+   "player_id": "STB10",
+   "x": 23.4,
+   "y": 45.9,
+   "detail": {
+    "action": "ball_recovery"
+   },
+   "weight": 2,
+   "sources": [
+    213
+   ],
+   "id": "m15",
+   "minute": "11'",
+   "clock": "10:44",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 724.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Joel Marlowe",
+   "player_id": "STB8",
+   "x": 70.6,
+   "y": 18.4,
+   "detail": {
+    "fouled": "Dominic Fenner",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    241
+   ],
+   "id": "m16",
+   "minute": "13'",
+   "clock": "12:04",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "card",
+   "period": 1,
+   "sec": 725.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Joel Marlowe",
+   "player_id": "STB8",
+   "x": 70.6,
+   "y": 18.4,
+   "detail": {
+    "card": "yellow",
+    "victim": "Dominic Fenner"
+   },
+   "weight": 3,
+   "sources": [
+    242,
+    241
+   ],
+   "id": "m17",
+   "minute": "13'",
+   "clock": "12:05",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 1,
+   "sec": 741.1,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 94.8,
+   "y": 34.1,
+   "detail": {
+    "outcome": "saved",
+    "xg": 0.29,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": "Rhys Hallam",
+    "assist": "Dominic Fenner",
+    "assist_kind": "pass"
+   },
+   "weight": 4,
+   "sources": [
+    245,
+    246
+   ],
+   "id": "m18",
+   "minute": "13'",
+   "clock": "12:21",
+   "score_after": [
+    0,
+    0
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 2,
+    "attackers_within_30m_of_goal": 5.5
+   }
+  },
+  {
+   "kind": "pressing_win",
+   "period": 1,
+   "sec": 744.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Dominic Sutcliffe",
+   "player_id": "RMA6",
+   "x": 91.0,
+   "y": 39.1,
+   "detail": {
+    "action": "interception"
+   },
+   "weight": 2,
+   "sources": [
+    248
+   ],
+   "id": "m19",
+   "minute": "13'",
+   "clock": "12:24",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 1,
+   "sec": 770.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Cai Pargeter",
+   "player_id": "STB9",
+   "x": 22.5,
+   "y": 29.3,
+   "detail": {
+    "outcome": "saved",
+    "xg": 0.1,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": "Marcus Eastley",
+    "assist": "Stefan Nairn",
+    "assist_kind": "pass"
+   },
+   "weight": 3,
+   "sources": [
+    263,
+    264
+   ],
+   "id": "m20",
+   "minute": "13'",
+   "clock": "12:50",
+   "score_after": [
+    0,
+    0
+   ],
+   "vision": {
+    "check": "unsupported",
+    "frames": 5,
+    "attackers_within_30m_of_goal": 0
+   }
+  },
+  {
+   "kind": "corner",
+   "period": 1,
+   "sec": 800.5,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 2
+   },
+   "weight": 2,
+   "sources": [
+    274
+   ],
+   "id": "m21",
+   "minute": "14'",
+   "clock": "13:20",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 1,
+   "sec": 817.2,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Cai Quayle",
+   "player_id": "STB3",
+   "x": 97.9,
+   "y": 31.6,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    276
+   ],
+   "id": "m22",
+   "minute": "14'",
+   "clock": "13:37",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 1,
+   "sec": 873.6,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 10,
+    "players": 6,
+    "start_minute_sec": 849,
+    "duration_sec": 23,
+    "progress_m": 16,
+    "ended_with": "lost the ball"
+   },
+   "weight": 2,
+   "sources": [
+    300,
+    301,
+    302
+   ],
+   "id": "m23",
+   "minute": "15'",
+   "clock": "14:33",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "window",
+   "period": 1,
+   "sec": 900,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "label": "1-15",
+    "stats": {
+     "Redmoor Athletic": {
+      "possession_pct": 62,
+      "field_tilt_pct": 73,
+      "shots": 2,
+      "on_target": 2,
+      "corners": 2,
+      "fouls": 0
+     },
+     "Stonebridge Town": {
+      "possession_pct": 38,
+      "field_tilt_pct": 27,
+      "shots": 1,
+      "on_target": 1,
+      "corners": 0,
+      "fouls": 4
+     }
+    }
+   },
+   "weight": 3,
+   "sources": [],
+   "id": "m24",
+   "minute": "16'",
+   "clock": "15:00",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 957.6,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Connor Bexley",
+   "player_id": "RMA11",
+   "x": 46.8,
+   "y": 58.2,
+   "detail": {
+    "fouled": "Nathan Yeoman",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    341
+   ],
+   "id": "m25",
+   "minute": "16'",
+   "clock": "15:57",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 996.7,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Dominic Fenner",
+   "player_id": "RMA9",
+   "x": 54.7,
+   "y": 32.8,
+   "detail": {
+    "fouled": "Joel Marlowe",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    352
+   ],
+   "id": "m26",
+   "minute": "17'",
+   "clock": "16:36",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 1035.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Upton",
+   "player_id": "RMA8",
+   "x": 36.3,
+   "y": 18.5,
+   "detail": {
+    "fouled": "Cai Pargeter",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    362
+   ],
+   "id": "m27",
+   "minute": "18'",
+   "clock": "17:15",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 1,
+   "sec": 1079.6,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 16,
+    "to_minute": 19,
+    "possession_pct": 53,
+    "field_tilt_pct": 67,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m28",
+   "minute": "18'",
+   "clock": "17:59",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "pressing_win",
+   "period": 1,
+   "sec": 1084.6,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Cai Pargeter",
+   "player_id": "STB9",
+   "x": 25.9,
+   "y": 19.9,
+   "detail": {
+    "action": "ball_recovery"
+   },
+   "weight": 2,
+   "sources": [
+    382
+   ],
+   "id": "m29",
+   "minute": "19'",
+   "clock": "18:04",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 1,
+   "sec": 1092.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 1
+   },
+   "weight": 2,
+   "sources": [
+    386
+   ],
+   "id": "m30",
+   "minute": "19'",
+   "clock": "18:12",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 1,
+   "sec": 1113.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Alfie Brigg",
+   "player_id": "STB7",
+   "x": 9.1,
+   "y": 36.5,
+   "detail": {
+    "outcome": "saved",
+    "xg": 0.21,
+    "situation": "corner",
+    "body": "header",
+    "saved_by": "Marcus Eastley",
+    "assist": "Cai Pargeter",
+    "assist_kind": "corner"
+   },
+   "weight": 4,
+   "sources": [
+    388,
+    389
+   ],
+   "id": "m31",
+   "minute": "19'",
+   "clock": "18:33",
+   "score_after": [
+    0,
+    0
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 4,
+    "attackers_within_30m_of_goal": 5.0
+   }
+  },
+  {
+   "kind": "card",
+   "period": 1,
+   "sec": 1151.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Upton",
+   "player_id": "RMA8",
+   "x": 28.3,
+   "y": 28.9,
+   "detail": {
+    "card": "yellow",
+    "victim": "Cai Pargeter"
+   },
+   "weight": 3,
+   "sources": [
+    399,
+    398
+   ],
+   "id": "m32",
+   "minute": "20'",
+   "clock": "19:11",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 1156.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Upton",
+   "player_id": "RMA8",
+   "x": 28.3,
+   "y": 28.9,
+   "detail": {
+    "fouled": "Cai Pargeter",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    398
+   ],
+   "id": "m33",
+   "minute": "20'",
+   "clock": "19:16",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 1,
+   "sec": 1161.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Elliot Ibbotson",
+   "player_id": "RMA3",
+   "x": 7.3,
+   "y": 37.2,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    402
+   ],
+   "id": "m34",
+   "minute": "20'",
+   "clock": "19:21",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 1,
+   "sec": 1199.3,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 2
+   },
+   "weight": 2,
+   "sources": [
+    422
+   ],
+   "id": "m35",
+   "minute": "20'",
+   "clock": "19:59",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "pressure",
+   "period": 1,
+   "sec": 1199.3,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "shots": 1,
+    "corners": 2,
+    "span_seconds": 107
+   },
+   "weight": 3,
+   "sources": [
+    386,
+    388,
+    422
+   ],
+   "id": "m36",
+   "minute": "20'",
+   "clock": "19:59",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 1,
+   "sec": 1216.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Ashdown",
+   "player_id": "RMA7",
+   "x": 10.7,
+   "y": 30.7,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    424
+   ],
+   "id": "m37",
+   "minute": "21'",
+   "clock": "20:16",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 1,
+   "sec": 1239.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 9,
+    "players": 4,
+    "start_minute_sec": 1219,
+    "duration_sec": 19,
+    "progress_m": 53,
+    "ended_with": "lost the ball"
+   },
+   "weight": 2,
+   "sources": [
+    431,
+    432,
+    433
+   ],
+   "id": "m38",
+   "minute": "21'",
+   "clock": "20:39",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 1241.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 79.2,
+   "y": 40.4,
+   "detail": {
+    "fouled": "Joel Marlowe",
+    "zone": "in the defensive third"
+   },
+   "weight": 1,
+   "sources": [
+    436
+   ],
+   "id": "m39",
+   "minute": "21'",
+   "clock": "20:41",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 1,
+   "sec": 1277.5,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 9,
+    "players": 5,
+    "start_minute_sec": 1261,
+    "duration_sec": 16,
+    "progress_m": 35,
+    "ended_with": "lost the ball"
+   },
+   "weight": 2,
+   "sources": [
+    447,
+    448,
+    449
+   ],
+   "id": "m40",
+   "minute": "22'",
+   "clock": "21:17",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 1,
+   "sec": 1422.6,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 22,
+    "to_minute": 24,
+    "possession_pct": 68,
+    "field_tilt_pct": 60,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m41",
+   "minute": "24'",
+   "clock": "23:42",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 1,
+   "sec": 1427.6,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 12,
+    "players": 6,
+    "start_minute_sec": 1399,
+    "duration_sec": 28,
+    "progress_m": 35,
+    "ended_with": "lost the ball"
+   },
+   "weight": 3,
+   "sources": [
+    511,
+    512,
+    513
+   ],
+   "id": "m42",
+   "minute": "24'",
+   "clock": "23:47",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 1478.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Aled Stanhope",
+   "player_id": "STB6",
+   "x": 63.2,
+   "y": 40.8,
+   "detail": {
+    "fouled": "Emeka Harcourt",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    536
+   ],
+   "id": "m43",
+   "minute": "25'",
+   "clock": "24:38",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "card",
+   "period": 1,
+   "sec": 1479.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Aled Stanhope",
+   "player_id": "STB6",
+   "x": 63.2,
+   "y": 40.8,
+   "detail": {
+    "card": "yellow",
+    "victim": "Emeka Harcourt"
+   },
+   "weight": 3,
+   "sources": [
+    537,
+    536
+   ],
+   "id": "m44",
+   "minute": "25'",
+   "clock": "24:39",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 1521.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Joel Marlowe",
+   "player_id": "STB8",
+   "x": 70.3,
+   "y": 19.6,
+   "detail": {
+    "fouled": "Dominic Fenner",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    553
+   ],
+   "id": "m45",
+   "minute": "26'",
+   "clock": "25:21",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 1,
+   "sec": 1532.2,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Ashdown",
+   "player_id": "RMA7",
+   "x": 92.5,
+   "y": 35.8,
+   "detail": {
+    "outcome": "off_target",
+    "xg": 0.16,
+    "situation": "free_kick",
+    "body": "header",
+    "saved_by": null,
+    "assist": "Dominic Fenner",
+    "assist_kind": "free_kick_delivery"
+   },
+   "weight": 2,
+   "sources": [
+    556
+   ],
+   "id": "m46",
+   "minute": "26'",
+   "clock": "25:32",
+   "score_after": [
+    0,
+    0
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 6,
+    "attackers_within_30m_of_goal": 5.0
+   }
+  },
+  {
+   "kind": "sequence",
+   "period": 1,
+   "sec": 1616.7,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 11,
+    "players": 7,
+    "start_minute_sec": 1591,
+    "duration_sec": 25,
+    "progress_m": 22,
+    "ended_with": "lost the ball"
+   },
+   "weight": 3,
+   "sources": [
+    587,
+    588,
+    589
+   ],
+   "id": "m47",
+   "minute": "27'",
+   "clock": "26:56",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 1691.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Connor Bexley",
+   "player_id": "RMA11",
+   "x": 54.0,
+   "y": 49.0,
+   "detail": {
+    "fouled": "Nathan Yeoman",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    614
+   ],
+   "id": "m48",
+   "minute": "29'",
+   "clock": "28:11",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 1724.9,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Nathan Yeoman",
+   "player_id": "STB11",
+   "x": 48.3,
+   "y": 51.7,
+   "detail": {
+    "fouled": "Connor Bexley",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    622
+   ],
+   "id": "m49",
+   "minute": "29'",
+   "clock": "28:44",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 1,
+   "sec": 1795.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 27,
+    "to_minute": 31,
+    "possession_pct": 52,
+    "field_tilt_pct": 57,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m50",
+   "minute": "30'",
+   "clock": "29:55",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "window",
+   "period": 1,
+   "sec": 1800,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "label": "16-30",
+    "stats": {
+     "Redmoor Athletic": {
+      "possession_pct": 56,
+      "field_tilt_pct": 56,
+      "shots": 1,
+      "on_target": 0,
+      "corners": 0,
+      "fouls": 6
+     },
+     "Stonebridge Town": {
+      "possession_pct": 44,
+      "field_tilt_pct": 44,
+      "shots": 1,
+      "on_target": 1,
+      "corners": 2,
+      "fouls": 3
+     }
+    }
+   },
+   "weight": 3,
+   "sources": [],
+   "id": "m51",
+   "minute": "31'",
+   "clock": "30:00",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 1,
+   "sec": 1965.2,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 31,
+    "to_minute": 33,
+    "possession_pct": 57,
+    "field_tilt_pct": 62,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m52",
+   "minute": "33'",
+   "clock": "32:45",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 1,
+   "sec": 1970.2,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Stefan Nairn",
+   "player_id": "STB10",
+   "x": 22.3,
+   "y": 38.2,
+   "detail": {
+    "outcome": "off_target",
+    "xg": 0.11,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": null,
+    "assist": "Cai Pargeter",
+    "assist_kind": "pass"
+   },
+   "weight": 2,
+   "sources": [
+    712
+   ],
+   "id": "m53",
+   "minute": "33'",
+   "clock": "32:50",
+   "score_after": [
+    0,
+    0
+   ],
+   "vision": {
+    "check": "unsupported",
+    "frames": 6,
+    "attackers_within_30m_of_goal": 1.5
+   }
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 2023.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Cai Pargeter",
+   "player_id": "STB9",
+   "x": 47.6,
+   "y": 28.9,
+   "detail": {
+    "fouled": "Marcus Upton",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    734
+   ],
+   "id": "m54",
+   "minute": "34'",
+   "clock": "33:43",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 1,
+   "sec": 2217.7,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 33,
+    "to_minute": 38,
+    "possession_pct": 52,
+    "field_tilt_pct": 78,
+    "shots_home": 0,
+    "shots_away": 1
+   },
+   "id": "m55",
+   "minute": "37'",
+   "clock": "36:57",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "pressing_win",
+   "period": 1,
+   "sec": 2222.7,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 78.6,
+   "y": 40.4,
+   "detail": {
+    "action": "ball_recovery"
+   },
+   "weight": 2,
+   "sources": [
+    822
+   ],
+   "id": "m56",
+   "minute": "38'",
+   "clock": "37:02",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "pressing_win",
+   "period": 1,
+   "sec": 2290.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Stefan Nairn",
+   "player_id": "STB10",
+   "x": 23.8,
+   "y": 59.8,
+   "detail": {
+    "action": "ball_recovery"
+   },
+   "weight": 2,
+   "sources": [
+    854
+   ],
+   "id": "m57",
+   "minute": "39'",
+   "clock": "38:10",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 1,
+   "sec": 2358.7,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 11,
+    "players": 7,
+    "start_minute_sec": 2323,
+    "duration_sec": 34,
+    "progress_m": 72,
+    "ended_with": "lost the ball"
+   },
+   "weight": 3,
+   "sources": [
+    873,
+    874,
+    875
+   ],
+   "id": "m58",
+   "minute": "40'",
+   "clock": "39:18",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 2381.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Kofi Ormerod",
+   "player_id": "STB5",
+   "x": 79.6,
+   "y": 38.8,
+   "detail": {
+    "fouled": "Emeka Harcourt",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    890
+   ],
+   "id": "m59",
+   "minute": "40'",
+   "clock": "39:41",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 1,
+   "sec": 2399.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Aled Lowther",
+   "player_id": "STB2",
+   "x": 96.0,
+   "y": 33.3,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    893
+   ],
+   "id": "m60",
+   "minute": "40'",
+   "clock": "39:59",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 2446.2,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Ashdown",
+   "player_id": "RMA7",
+   "x": 44.1,
+   "y": 15.7,
+   "detail": {
+    "fouled": "Alfie Brigg",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    914
+   ],
+   "id": "m61",
+   "minute": "41'",
+   "clock": "40:46",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 2468.8,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Aled Stanhope",
+   "player_id": "STB6",
+   "x": 58.6,
+   "y": 39.5,
+   "detail": {
+    "fouled": "Emeka Harcourt",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    919
+   ],
+   "id": "m62",
+   "minute": "42'",
+   "clock": "41:08",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 1,
+   "sec": 2641.2,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 40,
+    "to_minute": 45,
+    "possession_pct": 55,
+    "field_tilt_pct": 57,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m63",
+   "minute": "45'",
+   "clock": "44:01",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 1,
+   "sec": 2646.2,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 10,
+    "players": 5,
+    "start_minute_sec": 2625,
+    "duration_sec": 20,
+    "progress_m": 32,
+    "ended_with": "lost the ball"
+   },
+   "weight": 2,
+   "sources": [
+    998,
+    999,
+    1000
+   ],
+   "id": "m64",
+   "minute": "45'",
+   "clock": "44:06",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "added_time",
+   "period": 1,
+   "sec": 2699.8,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": 52.5,
+   "y": 34.0,
+   "detail": {
+    "minutes": 3
+   },
+   "weight": 3,
+   "sources": [
+    1019
+   ],
+   "id": "m65",
+   "minute": "45'",
+   "clock": "44:59",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 2758.1,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Tomas Holloway",
+   "player_id": "RMA5",
+   "x": 19.9,
+   "y": 40.9,
+   "detail": {
+    "fouled": "Stefan Nairn",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    1046
+   ],
+   "id": "m66",
+   "minute": "45+1'",
+   "clock": "45:58",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 1,
+   "sec": 2774.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Upton",
+   "player_id": "RMA8",
+   "x": 12.7,
+   "y": 35.1,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    1049
+   ],
+   "id": "m67",
+   "minute": "45+2'",
+   "clock": "46:14",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 2824.4,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Upton",
+   "player_id": "RMA8",
+   "x": 40.3,
+   "y": 28.2,
+   "detail": {
+    "fouled": "Cai Pargeter",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1071
+   ],
+   "id": "m68",
+   "minute": "45+3'",
+   "clock": "47:04",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 1,
+   "sec": 2839.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Tomas Holloway",
+   "player_id": "RMA5",
+   "x": 25.0,
+   "y": 39.6,
+   "detail": {
+    "fouled": "Stefan Nairn",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    1074
+   ],
+   "id": "m69",
+   "minute": "45+3'",
+   "clock": "47:19",
+   "score_after": [
+    0,
+    0
+   ]
+  },
+  {
+   "kind": "goal",
+   "period": 1,
+   "sec": 2854.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Aled Stanhope",
+   "player_id": "STB6",
+   "x": 9.5,
+   "y": 27.6,
+   "detail": {
+    "situation": "free_kick",
+    "assist": "Stefan Nairn",
+    "assist_kind": "free_kick_delivery",
+    "xg": 0.18
+   },
+   "weight": 5,
+   "sources": [
+    1078,
+    1077
+   ],
+   "event_id": 1078,
+   "id": "m70",
+   "minute": "45+3'",
+   "clock": "47:34",
+   "score_after": [
+    0,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 3,
+    "attackers_within_30m_of_goal": 6
+   }
+  },
+  {
+   "kind": "period_end",
+   "period": 1,
+   "sec": 2885.8,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": 52.5,
+   "y": 34.0,
+   "detail": {},
+   "weight": 4,
+   "sources": [
+    1079
+   ],
+   "id": "m71",
+   "minute": "45+4'",
+   "clock": "48:05",
+   "score_after": [
+    0,
+    1
+   ]
+  },
+  {
+   "kind": "period_start",
+   "period": 2,
+   "sec": 0.2,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": 52.5,
+   "y": 34.0,
+   "detail": {},
+   "weight": 3,
+   "sources": [
+    1080
+   ],
+   "id": "m72",
+   "minute": "46'",
+   "clock": "45:00",
+   "score_after": [
+    0,
+    1
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 2,
+   "sec": 151.5,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 46,
+    "to_minute": 48,
+    "possession_pct": 50,
+    "field_tilt_pct": 25,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m73",
+   "minute": "48'",
+   "clock": "47:31",
+   "score_after": [
+    0,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 155.8,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Alfie Brigg",
+   "player_id": "STB7",
+   "x": 64.1,
+   "y": 4.3,
+   "detail": {
+    "fouled": "Marcus Ashdown",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1131
+   ],
+   "id": "m74",
+   "minute": "48'",
+   "clock": "47:35",
+   "score_after": [
+    0,
+    1
+   ]
+  },
+  {
+   "kind": "card",
+   "period": 2,
+   "sec": 156.5,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Alfie Brigg",
+   "player_id": "STB7",
+   "x": 64.1,
+   "y": 4.3,
+   "detail": {
+    "card": "yellow",
+    "victim": "Marcus Ashdown"
+   },
+   "weight": 3,
+   "sources": [
+    1132,
+    1131
+   ],
+   "id": "m75",
+   "minute": "48'",
+   "clock": "47:36",
+   "score_after": [
+    0,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 185.5,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Dominic Fenner",
+   "player_id": "RMA9",
+   "x": 16.2,
+   "y": 28.0,
+   "detail": {
+    "outcome": "off_target",
+    "xg": 0.16,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": null,
+    "assist": "Emeka Harcourt",
+    "assist_kind": "pass"
+   },
+   "weight": 2,
+   "sources": [
+    1140
+   ],
+   "id": "m76",
+   "minute": "49'",
+   "clock": "48:05",
+   "score_after": [
+    0,
+    1
+   ],
+   "vision": {
+    "check": "unsupported",
+    "frames": 6,
+    "attackers_within_30m_of_goal": 1.5
+   }
+  },
+  {
+   "kind": "pressing_win",
+   "period": 2,
+   "sec": 238.3,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 22.7,
+   "y": 60.7,
+   "detail": {
+    "action": "ball_recovery"
+   },
+   "weight": 2,
+   "sources": [
+    1167
+   ],
+   "id": "m77",
+   "minute": "49'",
+   "clock": "48:58",
+   "score_after": [
+    0,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 242.3,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Dominic Fenner",
+   "player_id": "RMA9",
+   "x": 27.9,
+   "y": 34.0,
+   "detail": {
+    "fouled": "Kofi Ormerod",
+    "zone": "in the defensive third"
+   },
+   "weight": 1,
+   "sources": [
+    1170
+   ],
+   "id": "m78",
+   "minute": "50'",
+   "clock": "49:02",
+   "score_after": [
+    0,
+    1
+   ]
+  },
+  {
+   "kind": "goal",
+   "period": 2,
+   "sec": 300.6,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 17.4,
+   "y": 40.4,
+   "detail": {
+    "situation": "open_play",
+    "assist": "Dominic Fenner",
+    "assist_kind": "pass",
+    "xg": 0.14
+   },
+   "weight": 5,
+   "sources": [
+    1192,
+    1191
+   ],
+   "event_id": 1192,
+   "id": "m79",
+   "minute": "51'",
+   "clock": "50:00",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "unsupported",
+    "frames": 4,
+    "attackers_within_30m_of_goal": 1.0
+   }
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 391.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 16.5,
+   "y": 43.0,
+   "detail": {
+    "outcome": "blocked",
+    "xg": 0.14,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": null,
+    "assist": null,
+    "assist_kind": null
+   },
+   "weight": 2,
+   "sources": [
+    1206
+   ],
+   "id": "m80",
+   "minute": "52'",
+   "clock": "51:31",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 6,
+    "attackers_within_30m_of_goal": 2.0
+   }
+  },
+  {
+   "kind": "pressure",
+   "period": 2,
+   "sec": 391.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "shots": 3,
+    "corners": 0,
+    "span_seconds": 205
+   },
+   "weight": 3,
+   "sources": [
+    1140,
+    1191,
+    1206
+   ],
+   "id": "m81",
+   "minute": "52'",
+   "clock": "51:31",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 2,
+   "sec": 497.8,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 3
+   },
+   "weight": 2,
+   "sources": [
+    1249
+   ],
+   "id": "m82",
+   "minute": "54'",
+   "clock": "53:17",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 521.8,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Cai Pargeter",
+   "player_id": "STB9",
+   "x": 92.0,
+   "y": 26.1,
+   "detail": {
+    "outcome": "post",
+    "xg": 0.13,
+    "situation": "corner",
+    "body": "header",
+    "saved_by": null,
+    "assist": "Stefan Nairn",
+    "assist_kind": "corner"
+   },
+   "weight": 4,
+   "sources": [
+    1251
+   ],
+   "id": "m83",
+   "minute": "54'",
+   "clock": "53:41",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 6,
+    "attackers_within_30m_of_goal": 5.5
+   }
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 523.6,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Alfie Brigg",
+   "player_id": "STB7",
+   "x": 91.3,
+   "y": 33.0,
+   "detail": {
+    "fouled": "Marcus Ashdown",
+    "zone": "in the defensive third"
+   },
+   "weight": 1,
+   "sources": [
+    1252
+   ],
+   "id": "m84",
+   "minute": "54'",
+   "clock": "53:43",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 556.2,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Upton",
+   "player_id": "RMA8",
+   "x": 71.9,
+   "y": 19.8,
+   "detail": {
+    "fouled": "Cai Pargeter",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1261
+   ],
+   "id": "m85",
+   "minute": "55'",
+   "clock": "54:16",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 565.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Joel Marlowe",
+   "player_id": "STB8",
+   "x": 93.0,
+   "y": 37.7,
+   "detail": {
+    "outcome": "off_target",
+    "xg": 0.16,
+    "situation": "free_kick",
+    "body": "header",
+    "saved_by": null,
+    "assist": "Cai Pargeter",
+    "assist_kind": "free_kick_delivery"
+   },
+   "weight": 2,
+   "sources": [
+    1264
+   ],
+   "id": "m86",
+   "minute": "55'",
+   "clock": "54:25",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 3,
+    "attackers_within_30m_of_goal": 5
+   }
+  },
+  {
+   "kind": "pressure",
+   "period": 2,
+   "sec": 565.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "shots": 2,
+    "corners": 1,
+    "span_seconds": 67
+   },
+   "weight": 3,
+   "sources": [
+    1249,
+    1251,
+    1264
+   ],
+   "id": "m87",
+   "minute": "55'",
+   "clock": "54:25",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 679.4,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 61.3,
+   "y": 38.8,
+   "detail": {
+    "fouled": "Aled Stanhope",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1320
+   ],
+   "id": "m88",
+   "minute": "57'",
+   "clock": "56:19",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 2,
+   "sec": 795.8,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 55,
+    "to_minute": 59,
+    "possession_pct": 64,
+    "field_tilt_pct": 80,
+    "shots_home": 0,
+    "shots_away": 1
+   },
+   "id": "m89",
+   "minute": "59'",
+   "clock": "58:15",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 2,
+   "sec": 800.8,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 11,
+    "players": 5,
+    "start_minute_sec": 775,
+    "duration_sec": 25,
+    "progress_m": 12,
+    "ended_with": "lost the ball"
+   },
+   "weight": 3,
+   "sources": [
+    1363,
+    1364,
+    1365
+   ],
+   "id": "m90",
+   "minute": "59'",
+   "clock": "58:20",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 2,
+   "sec": 850.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 4
+   },
+   "weight": 2,
+   "sources": [
+    1391
+   ],
+   "id": "m91",
+   "minute": "60'",
+   "clock": "59:10",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "substitution",
+   "period": 2,
+   "sec": 865.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Luca Farrow",
+   "player_id": "STB15",
+   "x": 91.7,
+   "y": 30.3,
+   "detail": {
+    "off": "Aled Stanhope"
+   },
+   "weight": 3,
+   "sources": [
+    1392
+   ],
+   "id": "m92",
+   "minute": "60'",
+   "clock": "59:25",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 2,
+   "sec": 865.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Cai Wetherby",
+   "player_id": "RMA2",
+   "x": 94.6,
+   "y": 33.4,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    1394
+   ],
+   "id": "m93",
+   "minute": "60'",
+   "clock": "59:25",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 2,
+   "sec": 890.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 11,
+    "players": 4,
+    "start_minute_sec": 866,
+    "duration_sec": 24,
+    "progress_m": 37,
+    "ended_with": "lost the ball"
+   },
+   "weight": 2,
+   "sources": [
+    1403,
+    1404,
+    1405
+   ],
+   "id": "m94",
+   "minute": "60'",
+   "clock": "59:50",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 2,
+   "sec": 896.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 3
+   },
+   "weight": 2,
+   "sources": [
+    1410
+   ],
+   "id": "m95",
+   "minute": "60'",
+   "clock": "59:56",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "window",
+   "period": 2,
+   "sec": 900,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "label": "46-60",
+    "stats": {
+     "Redmoor Athletic": {
+      "possession_pct": 50,
+      "field_tilt_pct": 47,
+      "shots": 3,
+      "on_target": 1,
+      "corners": 1,
+      "fouls": 3
+     },
+     "Stonebridge Town": {
+      "possession_pct": 50,
+      "field_tilt_pct": 53,
+      "shots": 2,
+      "on_target": 0,
+      "corners": 2,
+      "fouls": 2
+     }
+    }
+   },
+   "weight": 3,
+   "sources": [],
+   "id": "m96",
+   "minute": "61'",
+   "clock": "60:00",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "substitution",
+   "period": 2,
+   "sec": 916.1,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Idris Iredale",
+   "player_id": "RMA17",
+   "x": 13.7,
+   "y": 17.5,
+   "detail": {
+    "off": "Dominic Fenner"
+   },
+   "weight": 3,
+   "sources": [
+    1411
+   ],
+   "id": "m97",
+   "minute": "61'",
+   "clock": "60:16",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 2,
+   "sec": 917.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 4
+   },
+   "weight": 2,
+   "sources": [
+    1415
+   ],
+   "id": "m98",
+   "minute": "61'",
+   "clock": "60:17",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 923.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Connor Bexley",
+   "player_id": "RMA11",
+   "x": 10.2,
+   "y": 42.7,
+   "detail": {
+    "outcome": "saved",
+    "xg": 0.17,
+    "situation": "corner",
+    "body": "header",
+    "saved_by": null,
+    "assist": "Dominic Fenner",
+    "assist_kind": "corner"
+   },
+   "weight": 3,
+   "sources": [
+    1413
+   ],
+   "id": "m99",
+   "minute": "61'",
+   "clock": "60:23",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 4,
+    "attackers_within_30m_of_goal": 5.0
+   }
+  },
+  {
+   "kind": "corner",
+   "period": 2,
+   "sec": 934.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 5
+   },
+   "weight": 2,
+   "sources": [
+    1419
+   ],
+   "id": "m100",
+   "minute": "61'",
+   "clock": "60:34",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 935.1,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Idris Iredale",
+   "player_id": "RMA17",
+   "x": 6.1,
+   "y": 26.8,
+   "detail": {
+    "outcome": "saved",
+    "xg": 0.25,
+    "situation": "corner",
+    "body": "header",
+    "saved_by": "Rhys Hallam",
+    "assist": "Marcus Ashdown",
+    "assist_kind": "corner"
+   },
+   "weight": 4,
+   "sources": [
+    1417,
+    1418
+   ],
+   "id": "m101",
+   "minute": "61'",
+   "clock": "60:35",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 1,
+    "attackers_within_30m_of_goal": 5
+   }
+  },
+  {
+   "kind": "pressure",
+   "period": 2,
+   "sec": 935.1,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "shots": 2,
+    "corners": 3,
+    "span_seconds": 38
+   },
+   "weight": 3,
+   "sources": [
+    1410,
+    1415,
+    1413,
+    1419,
+    1417
+   ],
+   "id": "m102",
+   "minute": "61'",
+   "clock": "60:35",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 2,
+   "sec": 956.5,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Kofi Ormerod",
+   "player_id": "STB5",
+   "x": 7.5,
+   "y": 32.8,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    1421
+   ],
+   "id": "m103",
+   "minute": "61'",
+   "clock": "60:56",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "substitution",
+   "period": 2,
+   "sec": 978.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Owen Pickering",
+   "player_id": "STB13",
+   "x": 27.3,
+   "y": 33.5,
+   "detail": {
+    "off": "Marcus Lisle"
+   },
+   "weight": 3,
+   "sources": [
+    1435
+   ],
+   "id": "m104",
+   "minute": "62'",
+   "clock": "61:18",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 1016.2,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Cai Pargeter",
+   "player_id": "STB9",
+   "x": 50.5,
+   "y": 27.3,
+   "detail": {
+    "fouled": "Marcus Upton",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1453
+   ],
+   "id": "m105",
+   "minute": "62'",
+   "clock": "61:56",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 1075.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Cai Pargeter",
+   "player_id": "STB9",
+   "x": 83.1,
+   "y": 27.8,
+   "detail": {
+    "outcome": "blocked",
+    "xg": 0.1,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": null,
+    "assist": "Stefan Nairn",
+    "assist_kind": "pass"
+   },
+   "weight": 2,
+   "sources": [
+    1474
+   ],
+   "id": "m106",
+   "minute": "63'",
+   "clock": "62:55",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "unsupported",
+    "frames": 6,
+    "attackers_within_30m_of_goal": 1.0
+   }
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 1182.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Tomas Holloway",
+   "player_id": "RMA5",
+   "x": 78.8,
+   "y": 39.4,
+   "detail": {
+    "fouled": "Stefan Nairn",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    1526
+   ],
+   "id": "m107",
+   "minute": "65'",
+   "clock": "64:42",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 1195.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Ravi Yarrow",
+   "player_id": "RMA4",
+   "x": 86.9,
+   "y": 33.0,
+   "detail": {
+    "fouled": "Joel Marlowe",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    1529
+   ],
+   "id": "m108",
+   "minute": "65'",
+   "clock": "64:55",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "card",
+   "period": 2,
+   "sec": 1195.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Ravi Yarrow",
+   "player_id": "RMA4",
+   "x": 86.9,
+   "y": 33.0,
+   "detail": {
+    "card": "yellow",
+    "victim": "Joel Marlowe"
+   },
+   "weight": 3,
+   "sources": [
+    1530,
+    1529
+   ],
+   "id": "m109",
+   "minute": "65'",
+   "clock": "64:55",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 1209.6,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Nathan Yeoman",
+   "player_id": "STB11",
+   "x": 94.2,
+   "y": 31.3,
+   "detail": {
+    "outcome": "saved",
+    "xg": 0.21,
+    "situation": "free_kick",
+    "body": "header",
+    "saved_by": "Marcus Eastley",
+    "assist": "Joel Marlowe",
+    "assist_kind": "free_kick_delivery"
+   },
+   "weight": 4,
+   "sources": [
+    1533,
+    1534
+   ],
+   "id": "m110",
+   "minute": "66'",
+   "clock": "65:09",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 2,
+    "attackers_within_30m_of_goal": 4.5
+   }
+  },
+  {
+   "kind": "defensive_stand",
+   "period": 2,
+   "sec": 1257.2,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Owen Pickering",
+   "player_id": "STB13",
+   "x": 19.4,
+   "y": 26.5,
+   "detail": {
+    "action": "tackle"
+   },
+   "weight": 2,
+   "sources": [
+    1552
+   ],
+   "id": "m111",
+   "minute": "66'",
+   "clock": "65:57",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 2,
+   "sec": 1385.7,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 6
+   },
+   "weight": 2,
+   "sources": [
+    1612
+   ],
+   "id": "m112",
+   "minute": "69'",
+   "clock": "68:05",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 2,
+   "sec": 1407.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Owen Pickering",
+   "player_id": "STB13",
+   "x": 10.7,
+   "y": 34.8,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    1614
+   ],
+   "id": "m113",
+   "minute": "69'",
+   "clock": "68:27",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "pressing_win",
+   "period": 2,
+   "sec": 1498.2,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 24.8,
+   "y": 44.2,
+   "detail": {
+    "action": "ball_recovery"
+   },
+   "weight": 2,
+   "sources": [
+    1654
+   ],
+   "id": "m114",
+   "minute": "70'",
+   "clock": "69:58",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 1581.4,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Tomas Holloway",
+   "player_id": "RMA5",
+   "x": 79.2,
+   "y": 38.6,
+   "detail": {
+    "fouled": "Stefan Nairn",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    1694
+   ],
+   "id": "m115",
+   "minute": "72'",
+   "clock": "71:21",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 2,
+   "sec": 1598.1,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Ravi Yarrow",
+   "player_id": "RMA4",
+   "x": 96.5,
+   "y": 33.9,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    1698
+   ],
+   "id": "m116",
+   "minute": "72'",
+   "clock": "71:38",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "substitution",
+   "period": 2,
+   "sec": 1598.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Radley",
+   "player_id": "RMA13",
+   "x": 91.8,
+   "y": 28.5,
+   "detail": {
+    "off": "Tomas Holloway"
+   },
+   "weight": 3,
+   "sources": [
+    1696
+   ],
+   "id": "m117",
+   "minute": "72'",
+   "clock": "71:38",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 1686.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Luca Farrow",
+   "player_id": "STB15",
+   "x": 35.5,
+   "y": 36.5,
+   "detail": {
+    "fouled": "Emeka Harcourt",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1739
+   ],
+   "id": "m118",
+   "minute": "74'",
+   "clock": "73:06",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 1785.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Dominic Sutcliffe",
+   "player_id": "RMA6",
+   "x": 68.1,
+   "y": 33.5,
+   "detail": {
+    "fouled": "Stefan Nairn",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1773
+   ],
+   "id": "m119",
+   "minute": "75'",
+   "clock": "74:45",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 2,
+   "sec": 1795.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 72,
+    "to_minute": 76,
+    "possession_pct": 65,
+    "field_tilt_pct": 79,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m120",
+   "minute": "75'",
+   "clock": "74:55",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "window",
+   "period": 2,
+   "sec": 1800,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "label": "61-75",
+    "stats": {
+     "Redmoor Athletic": {
+      "possession_pct": 59,
+      "field_tilt_pct": 69,
+      "shots": 2,
+      "on_target": 2,
+      "corners": 3,
+      "fouls": 4
+     },
+     "Stonebridge Town": {
+      "possession_pct": 41,
+      "field_tilt_pct": 31,
+      "shots": 2,
+      "on_target": 1,
+      "corners": 0,
+      "fouls": 2
+     }
+    }
+   },
+   "weight": 3,
+   "sources": [],
+   "id": "m121",
+   "minute": "76'",
+   "clock": "75:00",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 1807.5,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Stefan Nairn",
+   "player_id": "STB10",
+   "x": 86.6,
+   "y": 40.4,
+   "detail": {
+    "outcome": "saved",
+    "xg": 0.14,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": "Marcus Eastley",
+    "assist": "Cai Pargeter",
+    "assist_kind": "pass"
+   },
+   "weight": 3,
+   "sources": [
+    1779,
+    1780
+   ],
+   "id": "m122",
+   "minute": "76'",
+   "clock": "75:07",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 4,
+    "attackers_within_30m_of_goal": 2.0
+   }
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 1848.5,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Luca Farrow",
+   "player_id": "STB15",
+   "x": 32.2,
+   "y": 48.1,
+   "detail": {
+    "fouled": "Emeka Harcourt",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    1801
+   ],
+   "id": "m123",
+   "minute": "76'",
+   "clock": "75:48",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "offside",
+   "period": 2,
+   "sec": 1875.5,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Marcus Ashdown",
+   "player_id": "RMA7",
+   "x": 12.2,
+   "y": 27.5,
+   "detail": {
+    "pass_from": "Idris Iredale"
+   },
+   "weight": 2,
+   "sources": [
+    1806
+   ],
+   "id": "m124",
+   "minute": "77'",
+   "clock": "76:15",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 1946.5,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Nathan Yeoman",
+   "player_id": "STB11",
+   "x": 43.4,
+   "y": 52.8,
+   "detail": {
+    "fouled": "Connor Bexley",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1833
+   ],
+   "id": "m125",
+   "minute": "78'",
+   "clock": "77:26",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "substitution",
+   "period": 2,
+   "sec": 1959.6,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Cai Kerridge",
+   "player_id": "RMA15",
+   "x": 53.4,
+   "y": 30.7,
+   "detail": {
+    "off": "Marcus Upton"
+   },
+   "weight": 3,
+   "sources": [
+    1835
+   ],
+   "id": "m126",
+   "minute": "78'",
+   "clock": "77:39",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 2021.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Joel Marlowe",
+   "player_id": "STB8",
+   "x": 34.8,
+   "y": 33.7,
+   "detail": {
+    "fouled": "Idris Iredale",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    1865
+   ],
+   "id": "m127",
+   "minute": "79'",
+   "clock": "78:41",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 2,
+   "sec": 2030.0,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Luca Farrow",
+   "player_id": "STB15",
+   "x": 7.2,
+   "y": 35.9,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    1868
+   ],
+   "id": "m128",
+   "minute": "79'",
+   "clock": "78:50",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "corner",
+   "period": 2,
+   "sec": 2062.7,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 7
+   },
+   "weight": 2,
+   "sources": [
+    1884
+   ],
+   "id": "m129",
+   "minute": "80'",
+   "clock": "79:22",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 2066.6,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 21.0,
+   "y": 38.9,
+   "detail": {
+    "outcome": "blocked",
+    "xg": 0.11,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": null,
+    "assist": "Idris Iredale",
+    "assist_kind": "pass"
+   },
+   "weight": 2,
+   "sources": [
+    1882
+   ],
+   "id": "m130",
+   "minute": "80'",
+   "clock": "79:26",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 2,
+    "attackers_within_30m_of_goal": 2.0
+   }
+  },
+  {
+   "kind": "corner",
+   "period": 2,
+   "sec": 2090.4,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "number": 8
+   },
+   "weight": 2,
+   "sources": [
+    1888
+   ],
+   "id": "m131",
+   "minute": "80'",
+   "clock": "79:50",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 2090.5,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Connor Bexley",
+   "player_id": "RMA11",
+   "x": 6.3,
+   "y": 38.6,
+   "detail": {
+    "outcome": "blocked",
+    "xg": 0.29,
+    "situation": "corner",
+    "body": "header",
+    "saved_by": null,
+    "assist": "Emeka Harcourt",
+    "assist_kind": "corner"
+   },
+   "weight": 3,
+   "sources": [
+    1886
+   ],
+   "id": "m132",
+   "minute": "80'",
+   "clock": "79:50",
+   "score_after": [
+    1,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 6,
+    "attackers_within_30m_of_goal": 5.5
+   }
+  },
+  {
+   "kind": "pressure",
+   "period": 2,
+   "sec": 2090.5,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "shots": 2,
+    "corners": 2,
+    "span_seconds": 27
+   },
+   "weight": 3,
+   "sources": [
+    1884,
+    1882,
+    1888,
+    1886
+   ],
+   "id": "m133",
+   "minute": "80'",
+   "clock": "79:50",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "clearance",
+   "period": 2,
+   "sec": 2102.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Joel Marlowe",
+   "player_id": "STB8",
+   "x": 9.7,
+   "y": 35.7,
+   "detail": {},
+   "weight": 2,
+   "sources": [
+    1890
+   ],
+   "id": "m134",
+   "minute": "81'",
+   "clock": "80:02",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 2,
+   "sec": 2301.3,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 81,
+    "to_minute": 84,
+    "possession_pct": 55,
+    "field_tilt_pct": 40,
+    "shots_home": 1,
+    "shots_away": 0
+   },
+   "id": "m135",
+   "minute": "84'",
+   "clock": "83:21",
+   "score_after": [
+    1,
+    1
+   ]
+  },
+  {
+   "kind": "goal",
+   "period": 2,
+   "sec": 2306.3,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 23.8,
+   "y": 41.1,
+   "detail": {
+    "situation": "open_play",
+    "assist": "Idris Iredale",
+    "assist_kind": "pass",
+    "xg": 0.09
+   },
+   "weight": 5,
+   "sources": [
+    1966,
+    1965
+   ],
+   "event_id": 1966,
+   "id": "m136",
+   "minute": "84'",
+   "clock": "83:26",
+   "score_after": [
+    2,
+    1
+   ],
+   "vision": {
+    "check": "no_wide_frame"
+   }
+  },
+  {
+   "kind": "sequence",
+   "period": 2,
+   "sec": 2446.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 10,
+    "players": 5,
+    "start_minute_sec": 2432,
+    "duration_sec": 14,
+    "progress_m": 33,
+    "ended_with": "lost the ball"
+   },
+   "weight": 2,
+   "sources": [
+    2015,
+    2016,
+    2017
+   ],
+   "id": "m137",
+   "minute": "86'",
+   "clock": "85:46",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "pressing_win",
+   "period": 2,
+   "sec": 2474.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Dominic Sutcliffe",
+   "player_id": "RMA6",
+   "x": 18.6,
+   "y": 41.1,
+   "detail": {
+    "action": "tackle"
+   },
+   "weight": 2,
+   "sources": [
+    2032
+   ],
+   "id": "m138",
+   "minute": "87'",
+   "clock": "86:14",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "shot",
+   "period": 2,
+   "sec": 2474.1,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Idris Iredale",
+   "player_id": "RMA17",
+   "x": 18.0,
+   "y": 27.8,
+   "detail": {
+    "outcome": "post",
+    "xg": 0.15,
+    "situation": "open_play",
+    "body": "foot",
+    "saved_by": null,
+    "assist": "Emeka Harcourt",
+    "assist_kind": "pass"
+   },
+   "weight": 4,
+   "sources": [
+    2031
+   ],
+   "id": "m139",
+   "minute": "87'",
+   "clock": "86:14",
+   "score_after": [
+    2,
+    1
+   ],
+   "vision": {
+    "check": "supported",
+    "frames": 5,
+    "attackers_within_30m_of_goal": 2
+   }
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 2482.7,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Emeka Harcourt",
+   "player_id": "RMA10",
+   "x": 34.8,
+   "y": 45.6,
+   "detail": {
+    "fouled": "Luca Farrow",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    2037
+   ],
+   "id": "m140",
+   "minute": "87'",
+   "clock": "86:22",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "substitution",
+   "period": 2,
+   "sec": 2497.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Elliot Trenholm",
+   "player_id": "STB16",
+   "x": 42.1,
+   "y": 14.9,
+   "detail": {
+    "off": "Alfie Brigg"
+   },
+   "weight": 3,
+   "sources": [
+    2039
+   ],
+   "id": "m141",
+   "minute": "87'",
+   "clock": "86:37",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 2550.0,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": "Idris Iredale",
+   "player_id": "RMA17",
+   "x": 33.3,
+   "y": 26.3,
+   "detail": {
+    "fouled": "Luca Farrow",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    2056
+   ],
+   "id": "m142",
+   "minute": "88'",
+   "clock": "87:30",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 2617.5,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Joel Marlowe",
+   "player_id": "STB8",
+   "x": 36.4,
+   "y": 32.9,
+   "detail": {
+    "fouled": "Idris Iredale",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    2076
+   ],
+   "id": "m143",
+   "minute": "89'",
+   "clock": "88:37",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 2,
+   "sec": 2694.8,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 87,
+    "to_minute": 90,
+    "possession_pct": 57,
+    "field_tilt_pct": 67,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m144",
+   "minute": "90'",
+   "clock": "89:54",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "added_time",
+   "period": 2,
+   "sec": 2699.8,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": 52.5,
+   "y": 34.0,
+   "detail": {
+    "minutes": 6
+   },
+   "weight": 3,
+   "sources": [
+    2111
+   ],
+   "id": "m145",
+   "minute": "90'",
+   "clock": "89:59",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 2,
+   "sec": 2851.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 90,
+    "to_minute": 93,
+    "possession_pct": 62,
+    "field_tilt_pct": 78,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m146",
+   "minute": "90+3'",
+   "clock": "92:31",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "sequence",
+   "period": 2,
+   "sec": 2856.1,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "detail": {
+    "passes": 10,
+    "players": 5,
+    "start_minute_sec": 2835,
+    "duration_sec": 20,
+    "progress_m": 24,
+    "ended_with": "lost the ball"
+   },
+   "weight": 2,
+   "sources": [
+    2166,
+    2167,
+    2168
+   ],
+   "id": "m147",
+   "minute": "90+3'",
+   "clock": "92:36",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 3037.4,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Luca Farrow",
+   "player_id": "STB15",
+   "x": 40.4,
+   "y": 39.2,
+   "detail": {
+    "fouled": "Emeka Harcourt",
+    "zone": "in midfield"
+   },
+   "weight": 1,
+   "sources": [
+    2243
+   ],
+   "id": "m148",
+   "minute": "90+6'",
+   "clock": "95:37",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "phase",
+   "period": 2,
+   "sec": 3048.9,
+   "team": "RMA",
+   "team_name": "Redmoor Athletic",
+   "player": null,
+   "player_id": null,
+   "x": null,
+   "y": null,
+   "weight": 2,
+   "sources": [],
+   "detail": {
+    "from_minute": 93,
+    "to_minute": 96,
+    "possession_pct": 57,
+    "field_tilt_pct": 48,
+    "shots_home": 0,
+    "shots_away": 0
+   },
+   "id": "m149",
+   "minute": "90+6'",
+   "clock": "95:48",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "foul",
+   "period": 2,
+   "sec": 3053.9,
+   "team": "STB",
+   "team_name": "Stonebridge Town",
+   "player": "Kofi Ormerod",
+   "player_id": "STB5",
+   "x": 23.2,
+   "y": 40.1,
+   "detail": {
+    "fouled": "Emeka Harcourt",
+    "zone": "in the attacking third"
+   },
+   "weight": 2,
+   "sources": [
+    2247
+   ],
+   "id": "m150",
+   "minute": "90+6'",
+   "clock": "95:53",
+   "score_after": [
+    2,
+    1
+   ]
+  },
+  {
+   "kind": "period_end",
+   "period": 2,
+   "sec": 3064.6,
+   "team": null,
+   "team_name": null,
+   "player": null,
+   "player_id": null,
+   "x": 52.5,
+   "y": 34.0,
+   "detail": {},
+   "weight": 4,
+   "sources": [
+    2249
+   ],
+   "id": "m151",
+   "minute": "90+7'",
+   "clock": "96:04",
+   "score_after": [
+    2,
+    1
+   ]
+  }
+ ],
+ "stats": {
+  "h1": {
+   "RMA": {
+    "passes": 423,
+    "passes_completed": 325,
+    "corners": 2,
+    "shots": 3,
+    "on_target": 2,
+    "xg": 0.56,
+    "fouls": 10,
+    "yellow": 1,
+    "possession_pct": 55
+   },
+   "STB": {
+    "passes": 362,
+    "passes_completed": 267,
+    "fouls": 10,
+    "shots": 4,
+    "on_target": 3,
+    "xg": 0.6,
+    "yellow": 2,
+    "corners": 2,
+    "possession_pct": 45
+   }
+  },
+  "h2": {
+   "RMA": {
+    "passes": 467,
+    "passes_completed": 374,
+    "shots": 9,
+    "on_target": 4,
+    "xg": 1.5,
+    "fouls": 9,
+    "corners": 6,
+    "yellow": 1,
+    "offsides": 1,
+    "possession_pct": 56
+   },
+   "STB": {
+    "passes": 387,
+    "passes_completed": 289,
+    "yellow": 1,
+    "fouls": 10,
+    "corners": 2,
+    "shots": 5,
+    "on_target": 2,
+    "xg": 0.74,
+    "possession_pct": 44
+   }
+  },
+  "ft": {
+   "RMA": {
+    "passes": 890,
+    "passes_completed": 699,
+    "corners": 8,
+    "shots": 12,
+    "on_target": 6,
+    "xg": 2.06,
+    "fouls": 19,
+    "yellow": 2,
+    "offsides": 1,
+    "possession_pct": 56
+   },
+   "STB": {
+    "passes": 749,
+    "passes_completed": 556,
+    "fouls": 20,
+    "shots": 9,
+    "on_target": 5,
+    "xg": 1.34,
+    "yellow": 3,
+    "corners": 4,
+    "possession_pct": 44
+   }
+  }
+ },
+ "players": [
+  {
+   "id": "RMA10",
+   "name": "Emeka Harcourt",
+   "team": "RMA",
+   "role": "FW",
+   "number": 10,
+   "stats": {
+    "passes": 202,
+    "passes_completed": 164,
+    "shots": 6,
+    "on_target": 4,
+    "recoveries": 13,
+    "fouls_committed": 3,
+    "fouls_won": 7,
+    "key_passes": 3,
+    "goals": 2,
+    "pass_pct": 81
+   },
+   "score": 19.06
+  },
+  {
+   "id": "STB6",
+   "name": "Aled Stanhope",
+   "team": "STB",
+   "role": "MF",
+   "number": 6,
+   "stats": {
+    "passes": 63,
+    "passes_completed": 47,
+    "tackles_won": 9,
+    "recoveries": 26,
+    "interceptions": 4,
+    "fouls_committed": 2,
+    "yellow": 1,
+    "shots": 1,
+    "on_target": 1,
+    "goals": 1,
+    "fouls_won": 1,
+    "pass_pct": 75
+   },
+   "score": 11.58
+  },
+  {
+   "id": "STB10",
+   "name": "Stefan Nairn",
+   "team": "STB",
+   "role": "FW",
+   "number": 10,
+   "stats": {
+    "passes": 155,
+    "passes_completed": 113,
+    "fouls_committed": 2,
+    "recoveries": 14,
+    "key_passes": 4,
+    "shots": 2,
+    "on_target": 1,
+    "fouls_won": 5,
+    "assists": 1,
+    "pass_pct": 73
+   },
+   "score": 11.52
+  },
+  {
+   "id": "RMA9",
+   "name": "Dominic Fenner",
+   "team": "RMA",
+   "role": "FW",
+   "number": 9,
+   "stats": {
+    "passes": 131,
+    "passes_completed": 101,
+    "fouls_won": 2,
+    "key_passes": 4,
+    "fouls_committed": 2,
+    "recoveries": 3,
+    "shots": 1,
+    "on_target": 0,
+    "assists": 1,
+    "pass_pct": 77
+   },
+   "score": 10.44
+  },
+  {
+   "id": "STB8",
+   "name": "Joel Marlowe",
+   "team": "STB",
+   "role": "MF",
+   "number": 8,
+   "stats": {
+    "passes": 86,
+    "passes_completed": 61,
+    "recoveries": 33,
+    "interceptions": 7,
+    "tackles_won": 11,
+    "fouls_committed": 4,
+    "yellow": 1,
+    "fouls_won": 3,
+    "shots": 1,
+    "on_target": 0,
+    "key_passes": 1,
+    "clearances": 1,
+    "pass_pct": 71
+   },
+   "score": 10.14
+  },
+  {
+   "id": "RMA8",
+   "name": "Marcus Upton",
+   "team": "RMA",
+   "role": "MF",
+   "number": 8,
+   "stats": {
+    "recoveries": 38,
+    "passes": 94,
+    "passes_completed": 73,
+    "tackles_won": 10,
+    "interceptions": 5,
+    "fouls_won": 3,
+    "fouls_committed": 4,
+    "yellow": 1,
+    "clearances": 1,
+    "pass_pct": 78
+   },
+   "score": 8.52
+  },
+  {
+   "id": "RMA6",
+   "name": "Dominic Sutcliffe",
+   "team": "RMA",
+   "role": "MF",
+   "number": 6,
+   "stats": {
+    "interceptions": 10,
+    "fouls_won": 2,
+    "passes": 84,
+    "passes_completed": 56,
+    "recoveries": 32,
+    "tackles_won": 7,
+    "fouls_committed": 1,
+    "pass_pct": 67
+   },
+   "score": 8.44
+  },
+  {
+   "id": "STB9",
+   "name": "Cai Pargeter",
+   "team": "STB",
+   "role": "FW",
+   "number": 9,
+   "stats": {
+    "passes": 155,
+    "passes_completed": 118,
+    "fouls_committed": 3,
+    "shots": 3,
+    "on_target": 1,
+    "fouls_won": 4,
+    "recoveries": 7,
+    "key_passes": 4,
+    "pass_pct": 76
+   },
+   "score": 8.42
+  },
+  {
+   "id": "RMA17",
+   "name": "Idris Iredale",
+   "team": "RMA",
+   "role": "FW",
+   "number": 17,
+   "stats": {
+    "shots": 2,
+    "on_target": 1,
+    "passes": 72,
+    "passes_completed": 62,
+    "recoveries": 5,
+    "fouls_won": 2,
+    "key_passes": 2,
+    "assists": 1,
+    "fouls_committed": 1,
+    "pass_pct": 86
+   },
+   "score": 7.78
+  },
+  {
+   "id": "RMA11",
+   "name": "Connor Bexley",
+   "team": "RMA",
+   "role": "MF",
+   "number": 11,
+   "stats": {
+    "passes": 107,
+    "passes_completed": 91,
+    "fouls_committed": 2,
+    "tackles_won": 4,
+    "recoveries": 6,
+    "fouls_won": 2,
+    "shots": 2,
+    "on_target": 1,
+    "interceptions": 5,
+    "pass_pct": 85
+   },
+   "score": 7.14
+  },
+  {
+   "id": "RMA7",
+   "name": "Marcus Ashdown",
+   "team": "RMA",
+   "role": "MF",
+   "number": 7,
+   "stats": {
+    "passes": 112,
+    "passes_completed": 85,
+    "clearances": 1,
+    "shots": 1,
+    "on_target": 0,
+    "recoveries": 5,
+    "interceptions": 3,
+    "fouls_committed": 1,
+    "fouls_won": 2,
+    "key_passes": 1,
+    "pass_pct": 76
+   },
+   "score": 5.3
+  },
+  {
+   "id": "STB7",
+   "name": "Alfie Brigg",
+   "team": "STB",
+   "role": "MF",
+   "number": 7,
+   "stats": {
+    "passes": 94,
+    "passes_completed": 65,
+    "tackles_won": 4,
+    "recoveries": 9,
+    "shots": 1,
+    "on_target": 1,
+    "fouls_won": 1,
+    "yellow": 1,
+    "fouls_committed": 2,
+    "pass_pct": 69
+   },
+   "score": 4.6
+  },
+  {
+   "id": "RMA4",
+   "name": "Ravi Yarrow",
+   "team": "RMA",
+   "role": "DF",
+   "number": 4,
+   "stats": {
+    "tackles_won": 7,
+    "passes": 17,
+    "passes_completed": 11,
+    "recoveries": 2,
+    "interceptions": 1,
+    "fouls_committed": 1,
+    "yellow": 1,
+    "clearances": 1,
+    "pass_pct": 65
+   },
+   "score": 4.24
+  },
+  {
+   "id": "RMA5",
+   "name": "Tomas Holloway",
+   "team": "RMA",
+   "role": "DF",
+   "number": 5,
+   "stats": {
+    "passes": 15,
+    "passes_completed": 11,
+    "tackles_won": 8,
+    "recoveries": 3,
+    "fouls_committed": 4,
+    "pass_pct": 73
+   },
+   "score": 3.24
+  },
+  {
+   "id": "RMA1",
+   "name": "Marcus Eastley",
+   "team": "RMA",
+   "role": "GK",
+   "number": 1,
+   "stats": {
+    "passes": 20,
+    "passes_completed": 16,
+    "saves": 4,
+    "pass_pct": 80
+   },
+   "score": 3.04
+  },
+  {
+   "id": "STB5",
+   "name": "Kofi Ormerod",
+   "team": "STB",
+   "role": "DF",
+   "number": 5,
+   "stats": {
+    "tackles_won": 5,
+    "passes": 18,
+    "passes_completed": 10,
+    "recoveries": 7,
+    "fouls_committed": 2,
+    "fouls_won": 1,
+    "clearances": 1,
+    "interceptions": 1,
+    "pass_pct": 56
+   },
+   "score": 2.9
+  },
+  {
+   "id": "STB11",
+   "name": "Nathan Yeoman",
+   "team": "STB",
+   "role": "MF",
+   "number": 11,
+   "stats": {
+    "passes": 84,
+    "passes_completed": 68,
+    "recoveries": 3,
+    "fouls_won": 2,
+    "fouls_committed": 2,
+    "shots": 1,
+    "on_target": 1,
+    "pass_pct": 81
+   },
+   "score": 2.72
+  },
+  {
+   "id": "STB4",
+   "name": "Marcus Lisle",
+   "team": "STB",
+   "role": "DF",
+   "number": 4,
+   "stats": {
+    "tackles_won": 3,
+    "clearances": 1,
+    "passes": 10,
+    "passes_completed": 8,
+    "recoveries": 2,
+    "interceptions": 1,
+    "pass_pct": 80
+   },
+   "score": 2.42
+  },
+  {
+   "id": "STB1",
+   "name": "Rhys Hallam",
+   "team": "STB",
+   "role": "GK",
+   "number": 1,
+   "stats": {
+    "passes": 21,
+    "passes_completed": 14,
+    "saves": 3,
+    "pass_pct": 67
+   },
+   "score": 2.36
+  },
+  {
+   "id": "STB13",
+   "name": "Owen Pickering",
+   "team": "STB",
+   "role": "DF",
+   "number": 13,
+   "stats": {
+    "tackles_won": 3,
+    "passes": 8,
+    "passes_completed": 6,
+    "clearances": 1,
+    "pass_pct": 75
+   },
+   "score": 2.04
+  },
+  {
+   "id": "STB15",
+   "name": "Luca Farrow",
+   "team": "STB",
+   "role": "MF",
+   "number": 15,
+   "stats": {
+    "recoveries": 14,
+    "passes": 32,
+    "passes_completed": 30,
+    "tackles_won": 1,
+    "fouls_committed": 3,
+    "interceptions": 1,
+    "clearances": 1,
+    "fouls_won": 2,
+    "pass_pct": 94
+   },
+   "score": 1.4
+  },
+  {
+   "id": "RMA2",
+   "name": "Cai Wetherby",
+   "team": "RMA",
+   "role": "DF",
+   "number": 2,
+   "stats": {
+    "passes": 7,
+    "passes_completed": 5,
+    "interceptions": 2,
+    "clearances": 1,
+    "pass_pct": 71
+   },
+   "score": 1.1
+  },
+  {
+   "id": "RMA15",
+   "name": "Cai Kerridge",
+   "team": "RMA",
+   "role": "MF",
+   "number": 15,
+   "stats": {
+    "passes": 18,
+    "passes_completed": 14,
+    "tackles_won": 1,
+    "recoveries": 10,
+    "pass_pct": 78
+   },
+   "score": 1.06
+  },
+  {
+   "id": "RMA3",
+   "name": "Elliot Ibbotson",
+   "team": "RMA",
+   "role": "DF",
+   "number": 3,
+   "stats": {
+    "passes": 10,
+    "passes_completed": 10,
+    "clearances": 1,
+    "interceptions": 1,
+    "pass_pct": 100
+   },
+   "score": 1.0
+  },
+  {
+   "id": "STB2",
+   "name": "Aled Lowther",
+   "team": "STB",
+   "role": "DF",
+   "number": 2,
+   "stats": {
+    "passes": 8,
+    "passes_completed": 7,
+    "clearances": 1,
+    "pass_pct": 88
+   },
+   "score": 0.58
+  },
+  {
+   "id": "STB3",
+   "name": "Cai Quayle",
+   "team": "STB",
+   "role": "DF",
+   "number": 3,
+   "stats": {
+    "passes": 8,
+    "passes_completed": 7,
+    "clearances": 1,
+    "pass_pct": 88
+   },
+   "score": 0.58
+  },
+  {
+   "id": "STB16",
+   "name": "Elliot Trenholm",
+   "team": "STB",
+   "role": "MF",
+   "number": 16,
+   "stats": {
+    "passes": 7,
+    "passes_completed": 2,
+    "pass_pct": 29
+   },
+   "score": 0.08
+  },
+  {
+   "id": "RMA13",
+   "name": "Emeka Radley",
+   "team": "RMA",
+   "role": "DF",
+   "number": 13,
+   "stats": {
+    "recoveries": 1,
+    "passes": 1,
+    "passes_completed": 0,
+    "pass_pct": 0
+   },
+   "score": 0.0
+  }
+ ],
+ "windows": [
+  {
+   "period": 1,
+   "from": 0,
+   "to": 900,
+   "label": "1-15",
+   "stats": {
+    "Redmoor Athletic": {
+     "possession_pct": 62,
+     "field_tilt_pct": 73,
+     "shots": 2,
+     "on_target": 2,
+     "corners": 2,
+     "fouls": 0
+    },
+    "Stonebridge Town": {
+     "possession_pct": 38,
+     "field_tilt_pct": 27,
+     "shots": 1,
+     "on_target": 1,
+     "corners": 0,
+     "fouls": 4
+    }
+   }
+  },
+  {
+   "period": 1,
+   "from": 900,
+   "to": 1800,
+   "label": "16-30",
+   "stats": {
+    "Redmoor Athletic": {
+     "possession_pct": 56,
+     "field_tilt_pct": 56,
+     "shots": 1,
+     "on_target": 0,
+     "corners": 0,
+     "fouls": 6
+    },
+    "Stonebridge Town": {
+     "possession_pct": 44,
+     "field_tilt_pct": 44,
+     "shots": 1,
+     "on_target": 1,
+     "corners": 2,
+     "fouls": 3
+    }
+   }
+  },
+  {
+   "period": 1,
+   "from": 1800,
+   "to": 2885.8,
+   "label": "31-45+",
+   "stats": {
+    "Redmoor Athletic": {
+     "possession_pct": 49,
+     "field_tilt_pct": 51,
+     "shots": 0,
+     "on_target": 0,
+     "corners": 0,
+     "fouls": 4
+    },
+    "Stonebridge Town": {
+     "possession_pct": 51,
+     "field_tilt_pct": 49,
+     "shots": 2,
+     "on_target": 1,
+     "corners": 0,
+     "fouls": 3
+    }
+   }
+  },
+  {
+   "period": 2,
+   "from": 0,
+   "to": 900,
+   "label": "46-60",
+   "stats": {
+    "Redmoor Athletic": {
+     "possession_pct": 50,
+     "field_tilt_pct": 47,
+     "shots": 3,
+     "on_target": 1,
+     "corners": 1,
+     "fouls": 3
+    },
+    "Stonebridge Town": {
+     "possession_pct": 50,
+     "field_tilt_pct": 53,
+     "shots": 2,
+     "on_target": 0,
+     "corners": 2,
+     "fouls": 2
+    }
+   }
+  },
+  {
+   "period": 2,
+   "from": 900,
+   "to": 1800,
+   "label": "61-75",
+   "stats": {
+    "Redmoor Athletic": {
+     "possession_pct": 59,
+     "field_tilt_pct": 69,
+     "shots": 2,
+     "on_target": 2,
+     "corners": 3,
+     "fouls": 4
+    },
+    "Stonebridge Town": {
+     "possession_pct": 41,
+     "field_tilt_pct": 31,
+     "shots": 2,
+     "on_target": 1,
+     "corners": 0,
+     "fouls": 2
+    }
+   }
+  },
+  {
+   "period": 2,
+   "from": 1800,
+   "to": 3064.6,
+   "label": "76-90+",
+   "stats": {
+    "Redmoor Athletic": {
+     "possession_pct": 59,
+     "field_tilt_pct": 62,
+     "shots": 4,
+     "on_target": 1,
+     "corners": 2,
+     "fouls": 2
+    },
+    "Stonebridge Town": {
+     "possession_pct": 41,
+     "field_tilt_pct": 38,
+     "shots": 1,
+     "on_target": 1,
+     "corners": 0,
+     "fouls": 6
+    }
+   }
+  }
+ ],
+ "top_performers": {
+  "RMA": [
+   "RMA10",
+   "RMA9",
+   "RMA8"
+  ],
+  "STB": [
+   "STB6",
+   "STB10",
+   "STB8"
+  ]
+ },
+ "reconciliation": {
+  "vision_checks": {
+   "supported": 15,
+   "unsupported": 5,
+   "no_wide_frame": 1
+  },
+  "card_time_corrections": [
+   {
+    "card_event": 242,
+    "player": "Joel Marlowe",
+    "stamped": "15:59",
+    "corrected_to": "12:05",
+    "reason": "matched to the foul that caused it"
+   },
+   {
+    "card_event": 537,
+    "player": "Aled Stanhope",
+    "stamped": "27:36",
+    "corrected_to": "24:39",
+    "reason": "matched to the foul that caused it"
+   }
+  ]
+ }
+}

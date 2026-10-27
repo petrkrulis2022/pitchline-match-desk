@@ -1,0 +1,1553 @@
+[
+ {
+  "id": "e1",
+  "moment_ids": [
+   "m1"
+  ],
+  "minute": "0'",
+  "sec": -5.0,
+  "period": 1,
+  "kind": "lineup",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic line up in a 4-4-2 formation. Goalkeeper Marcus Eastley; forwards Dominic Fenner and Emeka Harcourt.",
+   "es": "Redmoor Athletic se alinea en una formación 4-4-2. Portero Marcus Eastley; delanteros Dominic Fenner y Emeka Harcourt.",
+   "cs": "Redmoor Athletic nastupuje v rozestavení 4-4-2. Brankář Marcus Eastley; útočníci Dominic Fenner a Emeka Harcourt."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e2",
+  "moment_ids": [
+   "m2"
+  ],
+  "minute": "0'",
+  "sec": -4.0,
+  "period": 1,
+  "kind": "lineup",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town line up in a 4-4-2 formation. Goalkeeper Rhys Hallam; forwards Cai Pargeter and Stefan Nairn.",
+   "es": "Stonebridge Town se alinea en una formación 4-4-2. Portero Rhys Hallam; delanteros Cai Pargeter y Stefan Nairn.",
+   "cs": "Stonebridge Town nastupuje v rozestavení 4-4-2. Brankář Rhys Hallam; útočníci Cai Pargeter a Stefan Nairn."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e3",
+  "moment_ids": [
+   "m3"
+  ],
+  "minute": "1'",
+  "sec": 0.0,
+  "period": 1,
+  "kind": "period_start",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Kick-off.",
+   "es": "Saque inicial.",
+   "cs": "Výkop."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e4",
+  "moment_ids": [
+   "m6"
+  ],
+  "minute": "5'",
+  "sec": 263.2,
+  "period": 1,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town control the ball from the 1st to the 5th minute, with 55% possession and a 64% field tilt.",
+   "es": "Stonebridge Town controla el balón del minuto 1 al 5, con un 55% de posesión y un 64% de inclinación de campo.",
+   "cs": "Stonebridge Town kontroluje míč od 1. do 5. minuty s 55% držením míče a 64% územní převahou."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e5",
+  "moment_ids": [
+   "m10"
+  ],
+  "minute": "7'",
+  "sec": 366.7,
+  "period": 1,
+  "kind": "goal",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "GOAL! Emeka Harcourt scores. The score is now 1-0.",
+   "es": "¡GOL! Emeka Harcourt marca. El marcador ahora es 1-0.",
+   "cs": "GÓL! Emeka Harcourt skóruje. Skóre je nyní 1-0."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e6",
+  "moment_ids": [
+   "m11"
+  ],
+  "minute": "9'",
+  "sec": 481.1,
+  "period": 1,
+  "kind": "var",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "VAR: the goal is cancelled for offside. The score remains 0-0.",
+   "es": "VAR: el gol es anulado por fuera de juego. El marcador sigue 0-0.",
+   "cs": "VAR: gól je zrušen kvůli ofsajdu. Skóre zůstává 0-0."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e7",
+  "moment_ids": [
+   "m13"
+  ],
+  "minute": "11'",
+  "sec": 628.6,
+  "period": 1,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic control the ball from the 9th to the 11th minute, with 82% possession and a 100% field tilt.",
+   "es": "Redmoor Athletic controla el balón del minuto 9 al 11, con un 82% de posesión y un 100% de inclinación de campo.",
+   "cs": "Redmoor Athletic kontroluje míč od 9. do 11. minuty s 82% držením míče a 100% územní převahou."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e8",
+  "moment_ids": [
+   "m17"
+  ],
+  "minute": "13'",
+  "sec": 725.1,
+  "period": 1,
+  "kind": "card",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town's Joel Marlowe receives a yellow card for a foul on Dominic Fenner.",
+   "es": "Joel Marlowe de Stonebridge Town recibe una tarjeta amarilla por una falta sobre Dominic Fenner.",
+   "cs": "Joel Marlowe ze Stonebridge Town dostává žlutou kartu za faul na Dominica Fennera."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e9",
+  "moment_ids": [
+   "m18"
+  ],
+  "minute": "13'",
+  "sec": 741.1,
+  "period": 1,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Emeka Harcourt takes a big chance — a shot from open play, saved by goalkeeper Rhys Hallam, set up by Dominic Fenner's pass.",
+   "es": "Emeka Harcourt aprovecha una gran oportunidad: un disparo en juego abierto, detenido por el portero Rhys Hallam, preparado por un pase de Dominic Fenner.",
+   "cs": "Emeka Harcourt má velkou šanci – střela ze hry, kterou brankář Rhys Hallam chytá, připravená přihrávkou Dominica Fennera."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e10",
+  "moment_ids": [
+   "m20"
+  ],
+  "minute": "13'",
+  "sec": 770.0,
+  "period": 1,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Cai Pargeter's shot from open play is saved by goalkeeper Marcus Eastley, assisted by Stefan Nairn's pass.",
+   "es": "El disparo en juego abierto de Cai Pargeter es detenido por el portero Marcus Eastley, asistido por un pase de Stefan Nairn.",
+   "cs": "Střela Caie Pargetera ze hry je chycena brankářem Marcusem Eastleym, asistovaná přihrávkou Stefana Nairna."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e11",
+  "moment_ids": [
+   "m24"
+  ],
+  "minute": "16'",
+  "sec": 900.5,
+  "period": 1,
+  "kind": "insight",
+  "nums": [
+   "0",
+   "1",
+   "15",
+   "16",
+   "2",
+   "27",
+   "38",
+   "4",
+   "62",
+   "73"
+  ],
+  "scores": [
+   "0:0",
+   "0:0"
+  ],
+  "text": {
+   "en": "In the opening 15 minutes, Redmoor Athletic had 62% possession and 73% field tilt, while Stonebridge Town committed 4 fouls. Both teams had one shot on target, but no goals were scored.",
+   "es": "En los primeros 15 minutos, el Redmoor Athletic tuvo un 62% de posesión y un 73% de dominio de campo, mientras que el Stonebridge Town cometió 4 faltas. Ambos equipos tuvieron un tiro a puerta, pero no se marcaron goles.",
+   "cs": "Během úvodních 15 minut měl Redmoor Athletic 62% držení míče a 73% teritoriální převahu, zatímco Stonebridge Town se dopustil 4 faulů. Oba týmy měly jednu střelu na branku, ale gól nepadl."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e12",
+  "moment_ids": [
+   "m28"
+  ],
+  "minute": "18'",
+  "sec": 1079.6,
+  "period": 1,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town control the ball from the 16th to the 19th minute, with 53% possession and a 67% field tilt.",
+   "es": "El Stonebridge Town controla el balón desde el minuto 16 hasta el 19, con un 53% de posesión y un 67% de dominio de campo.",
+   "cs": "Stonebridge Town kontroluje míč od 16. do 19. minuty s 53% držením míče a 67% teritoriální převahou."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e13",
+  "moment_ids": [
+   "m31"
+  ],
+  "minute": "19'",
+  "sec": 1113.0,
+  "period": 1,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Alfie Brigg's header from a corner, a big chance, is saved by goalkeeper Marcus Eastley, set up by Cai Pargeter's corner.",
+   "es": "El cabezazo de Alfie Brigg desde un córner, una gran ocasión, es detenido por el portero Marcus Eastley, asistido por el saque de esquina de Cai Pargeter.",
+   "cs": "Hlavička Alfieho Brigga z rohu, velká šance, je chycena brankářem Marcusem Eastleym, rohový kop zahrával Cai Pargeter."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e14",
+  "moment_ids": [
+   "m32"
+  ],
+  "minute": "20'",
+  "sec": 1151.0,
+  "period": 1,
+  "kind": "card",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Marcus Upton of Redmoor Athletic receives a yellow card for a foul on Cai Pargeter.",
+   "es": "Marcus Upton del Redmoor Athletic recibe una tarjeta amarilla por una falta sobre Cai Pargeter.",
+   "cs": "Marcus Upton z Redmoor Athletic dostává žlutou kartu za faul na Caie Pargetera."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e15",
+  "moment_ids": [
+   "m36"
+  ],
+  "minute": "20'",
+  "sec": 1199.3,
+  "period": 1,
+  "kind": "pressure",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town apply pressure with 1 shot and 2 corners over 107 seconds.",
+   "es": "El Stonebridge Town presiona con 1 tiro y 2 saques de esquina en 107 segundos.",
+   "cs": "Stonebridge Town vyvíjí tlak s 1 střelou a 2 rohy během 107 sekund."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e16",
+  "moment_ids": [
+   "m40"
+  ],
+  "minute": "22'",
+  "sec": 1277.5,
+  "period": 1,
+  "kind": "sequence",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic string together 9 passes involving 5 players, gaining 35 metres, then lose the ball.",
+   "es": "El Redmoor Athletic encadena 9 pases con 5 jugadores, avanzando 35 metros, y luego pierde el balón.",
+   "cs": "Redmoor Athletic sestaví řetězec 9 přihrávek zahrnujících 5 hráčů, získá 35 metrů, poté ztrácí míč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e17",
+  "moment_ids": [
+   "m42"
+  ],
+  "minute": "24'",
+  "sec": 1427.6,
+  "period": 1,
+  "kind": "sequence",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic complete 12 passes involving 6 players, gaining 35 metres, then lose the ball.",
+   "es": "El Redmoor Athletic completa 12 pases con 6 jugadores, avanzando 35 metros, y luego pierde el balón.",
+   "cs": "Redmoor Athletic provede 12 přihrávek zahrnujících 6 hráčů, získá 35 metrů, poté ztrácí míč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e18",
+  "moment_ids": [
+   "m44"
+  ],
+  "minute": "25'",
+  "sec": 1479.0,
+  "period": 1,
+  "kind": "card",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Aled Stanhope of Stonebridge Town receives a yellow card for a foul on Emeka Harcourt.",
+   "es": "Aled Stanhope del Stonebridge Town recibe una tarjeta amarilla por una falta sobre Emeka Harcourt.",
+   "cs": "Aled Stanhope ze Stonebridge Town dostává žlutou kartu za faul na Emeku Harcourta."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e19",
+  "moment_ids": [
+   "m47"
+  ],
+  "minute": "27'",
+  "sec": 1616.7,
+  "period": 1,
+  "kind": "sequence",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town play 11 passes involving 7 players, gaining 22 metres, then lose the ball.",
+   "es": "El Stonebridge Town juega 11 pases con 7 jugadores, avanzando 22 metros, y luego pierde el balón.",
+   "cs": "Stonebridge Town odehraje 11 přihrávek zahrnujících 7 hráčů, získá 22 metrů, poté ztrácí míč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e20",
+  "moment_ids": [
+   "m51"
+  ],
+  "minute": "31'",
+  "sec": 1800.5,
+  "period": 1,
+  "kind": "insight",
+  "nums": [
+   "0",
+   "1",
+   "16",
+   "2",
+   "3",
+   "30",
+   "31",
+   "44",
+   "56",
+   "6"
+  ],
+  "scores": [
+   "0:0",
+   "0:0"
+  ],
+  "text": {
+   "en": "From 16–30 minutes, Redmoor Athletic had 56% possession and 56% field tilt, while Stonebridge Town registered 1 shot on target and 2 corners. The score remained 0–0.",
+   "es": "De los minutos 16 a 30, el Redmoor Athletic tuvo un 56% de posesión y un 56% de dominio de campo, mientras que el Stonebridge Town registró 1 tiro a puerta y 2 saques de esquina. El marcador se mantuvo 0–0.",
+   "cs": "Od 16. do 30. minuty měl Redmoor Athletic 56% držení míče a 56% teritoriální převahu, zatímco Stonebridge Town zaznamenal 1 střelu na branku a 2 rohy. Skóre zůstalo 0–0."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e21",
+  "moment_ids": [
+   "m53"
+  ],
+  "minute": "33'",
+  "sec": 1970.2,
+  "period": 1,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Cai Pargeter sets up Stefan Nairn with a pass. Nairn's shot from open play is off target.",
+   "es": "Cai Pargeter asiste a Stefan Nairn con un pase. El disparo de Nairn desde jugada abierta se va desviado.",
+   "cs": "Cai Pargeter přihrává Stefanu Nairnovi. Nairnova střela z otevřené hry míří mimo branku."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e22",
+  "moment_ids": [
+   "m55"
+  ],
+  "minute": "37'",
+  "sec": 2217.7,
+  "period": 1,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "From the 33rd to the 38th minute, Stonebridge Town have 52% possession and a field tilt of 78%.",
+   "es": "Del minuto 33 al 38, Stonebridge Town tiene un 52% de posesión y un dominio de campo del 78%.",
+   "cs": "Od 33. do 38. minuty má Stonebridge Town 52% držení míče a 78% územní převahu."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e23",
+  "moment_ids": [
+   "m58"
+  ],
+  "minute": "40'",
+  "sec": 2358.7,
+  "period": 1,
+  "kind": "sequence",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic play 11 passes involving 7 players, gaining 72 metres, then lost the ball.",
+   "es": "Redmoor Athletic realiza 11 pases con 7 jugadores, avanzando 72 metros, y luego pierde el balón.",
+   "cs": "Redmoor Athletic rozehraje 11 přihrávek mezi 7 hráči, získá 72 metrů a poté ztratí míč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e24",
+  "moment_ids": [
+   "m60"
+  ],
+  "minute": "40'",
+  "sec": 2399.1,
+  "period": 1,
+  "kind": "clearance",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Aled Lowther clears the ball.",
+   "es": "Aled Lowther despeja el balón.",
+   "cs": "Aled Lowther odkopává míč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e25",
+  "moment_ids": [
+   "m63"
+  ],
+  "minute": "45'",
+  "sec": 2641.2,
+  "period": 1,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "From the 40th to the 45th minute, Stonebridge Town have 55% possession and a field tilt of 57%.",
+   "es": "Del minuto 40 al 45, Stonebridge Town tiene un 55% de posesión y un dominio de campo del 57%.",
+   "cs": "Od 40. do 45. minuty má Stonebridge Town 55% držení míče a 57% územní převahu."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e26",
+  "moment_ids": [
+   "m65"
+  ],
+  "minute": "45'",
+  "sec": 2699.8,
+  "period": 1,
+  "kind": "added_time",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Three minutes of added time.",
+   "es": "Tres minutos de tiempo añadido.",
+   "cs": "Tři minuty nastaveného času."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e27",
+  "moment_ids": [
+   "m70"
+  ],
+  "minute": "45+3'",
+  "sec": 2854.4,
+  "period": 1,
+  "kind": "goal",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "GOAL! Stonebridge Town lead 0-1. Aled Stanhope scores from a free kick, set up by Stefan Nairn's free kick.",
+   "es": "¡GOL! Stonebridge Town lidera 0-1. Aled Stanhope anota de tiro libre, asistido por el tiro libre de Stefan Nairn.",
+   "cs": "GÓL! Stonebridge Town vede 0-1. Aled Stanhope skóruje z přímého kopu, který připravil Stefan Nairn svým přímým kopem."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e28",
+  "moment_ids": [
+   "m71"
+  ],
+  "minute": "45+4'",
+  "sec": 2885.8,
+  "period": 1,
+  "kind": "period_end",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Half-time: Redmoor Athletic 0-1 Stonebridge Town.",
+   "es": "Descanso: Redmoor Athletic 0-1 Stonebridge Town.",
+   "cs": "Poločas: Redmoor Athletic 0-1 Stonebridge Town."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e29",
+  "moment_ids": [
+   "m71"
+  ],
+  "minute": "45+4'",
+  "sec": 2886.3,
+  "period": 1,
+  "kind": "insight",
+  "nums": [
+   "0",
+   "1",
+   "10",
+   "2",
+   "267",
+   "3",
+   "325",
+   "362",
+   "4",
+   "423",
+   "45",
+   "55",
+   "56",
+   "6"
+  ],
+  "scores": [
+   "0:1",
+   "1:0"
+  ],
+  "text": {
+   "en": "At half-time, Stonebridge Town lead 1-0 from 4 shots, 3 on target, with 45% possession, while Redmoor Athletic have 55% possession and 2 on target from 3 shots.",
+   "es": "Al descanso, Stonebridge Town lidera 1-0 con 4 tiros, 3 a puerta, y un 45% de posesión, mientras que Redmoor Athletic tiene un 55% de posesión y 2 a puerta de 3 tiros.",
+   "cs": "O přestávce vede Stonebridge Town 1-0 po 4 střelách, 3 na branku, s 45% držením míče, zatímco Redmoor Athletic má 55% držení míče a 2 střely na branku ze 3 pokusů."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e30",
+  "moment_ids": [
+   "m72"
+  ],
+  "minute": "46'",
+  "sec": 0.2,
+  "period": 2,
+  "kind": "period_start",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "The second half begins.",
+   "es": "Comienza la segunda mitad.",
+   "cs": "Druhý poločas začíná."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e31",
+  "moment_ids": [
+   "m75"
+  ],
+  "minute": "48'",
+  "sec": 156.5,
+  "period": 2,
+  "kind": "card",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Alfie Brigg is booked for a foul on Marcus Ashdown.",
+   "es": "Alfie Brigg es amonestado por una falta sobre Marcus Ashdown.",
+   "cs": "Alfie Brigg dostává žlutou kartu za faul na Marcuse Ashdowna."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e32",
+  "moment_ids": [
+   "m79"
+  ],
+  "minute": "51'",
+  "sec": 300.6,
+  "period": 2,
+  "kind": "goal",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "GOAL! Redmoor Athletic equalise 1-1. Emeka Harcourt scores from open play after a pass from Dominic Fenner.",
+   "es": "¡GOL! Redmoor Athletic empata 1-1. Emeka Harcourt anota en jugada abierta tras un pase de Dominic Fenner.",
+   "cs": "GÓL! Redmoor Athletic vyrovnává na 1-1. Emeka Harcourt skóruje ze hry po přihrávce od Dominica Fennera."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e33",
+  "moment_ids": [
+   "m81"
+  ],
+  "minute": "52'",
+  "sec": 391.0,
+  "period": 2,
+  "kind": "pressure",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic apply pressure for 205 seconds, producing 3 shots and 0 corners.",
+   "es": "Redmoor Athletic presiona durante 205 segundos, generando 3 tiros y 0 córners.",
+   "cs": "Redmoor Athletic vyvíjí tlak po dobu 205 sekund, během nichž vytvoří 3 střely a 0 rohů."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e34",
+  "moment_ids": [
+   "m83"
+  ],
+  "minute": "54'",
+  "sec": 521.8,
+  "period": 2,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Cai Pargeter hits the post with a header from a corner set up by Stefan Nairn.",
+   "es": "Cai Pargeter estrella el balón en el poste con un cabezazo de córner servido por Stefan Nairn.",
+   "cs": "Cai Pargeter trefuje tyč hlavičkou po rohu zahráváném Stefanem Nairnem."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e35",
+  "moment_ids": [
+   "m87"
+  ],
+  "minute": "55'",
+  "sec": 565.1,
+  "period": 2,
+  "kind": "pressure",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town apply pressure with 2 shots and 1 corner over 67 seconds.",
+   "es": "Stonebridge Town presiona con 2 tiros y 1 córner en 67 segundos.",
+   "cs": "Stonebridge Town vyvíjí tlak s 2 střelami a 1 rohem během 67 sekund."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e36",
+  "moment_ids": [
+   "m89"
+  ],
+  "minute": "59'",
+  "sec": 795.8,
+  "period": 2,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge control the ball at 64% possession and 80% field tilt from the 55th to the 59th minute.",
+   "es": "Stonebridge controla el balón con un 64% de posesión y un 80% de inclinación de campo entre el minuto 55 y el 59.",
+   "cs": "Stonebridge kontroluje míč s 64% držením a 80% převahou v poli od 55. do 59. minuty."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e37",
+  "moment_ids": [
+   "m90"
+  ],
+  "minute": "59'",
+  "sec": 800.8,
+  "period": 2,
+  "kind": "sequence",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge complete 11 passes involving 5 players, gaining 12 metres, before losing the ball.",
+   "es": "Stonebridge completa 11 pases con 5 jugadores, avanzando 12 metros, antes de perder el balón.",
+   "cs": "Stonebridge dokončí 11 přihrávek za účasti 5 hráčů, získá 12 metrů, než ztratí míč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e38",
+  "moment_ids": [
+   "m92"
+  ],
+  "minute": "60'",
+  "sec": 865.1,
+  "period": 2,
+  "kind": "substitution",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Luca Farrow replaces Aled Stanhope for Stonebridge Town.",
+   "es": "Luca Farrow reemplaza a Aled Stanhope en Stonebridge Town.",
+   "cs": "Luca Farrow střídá Aleda Stanhopea ve Stonebridge Town."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e39",
+  "moment_ids": [
+   "m96"
+  ],
+  "minute": "61'",
+  "sec": 900.5,
+  "period": 2,
+  "kind": "insight",
+  "nums": [
+   "0",
+   "1",
+   "2",
+   "3",
+   "46",
+   "47",
+   "50",
+   "53",
+   "60",
+   "61"
+  ],
+  "scores": [
+   "1:1",
+   "1:1"
+  ],
+  "text": {
+   "en": "46'–60': Redmoor Athletic had 3 shots with 1 on target, while Stonebridge Town had 2 shots with none on target. Both teams had 50% possession and 1 goal each.",
+   "es": "46'–60': Redmoor Athletic tuvo 3 tiros, 1 a puerta, mientras que Stonebridge Town tuvo 2 tiros, ninguno a puerta. Ambos equipos tuvieron un 50% de posesión y 1 gol cada uno.",
+   "cs": "46.–60. minuta: Redmoor Athletic měl 3 střely z toho 1 na branku, zatímco Stonebridge Town měl 2 střely bez střely na branku. Oba týmy měly 50% držení míče a 1 gól."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e40",
+  "moment_ids": [
+   "m97"
+  ],
+  "minute": "61'",
+  "sec": 916.1,
+  "period": 2,
+  "kind": "substitution",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Idris Iredale replaces Dominic Fenner for Redmoor Athletic.",
+   "es": "Idris Iredale reemplaza a Dominic Fenner en Redmoor Athletic.",
+   "cs": "Idris Iredale střídá Dominica Fennera v Redmoor Athletic."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e41",
+  "moment_ids": [
+   "m99"
+  ],
+  "minute": "61'",
+  "sec": 923.9,
+  "period": 2,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Connor Bexley's header from a corner, set up by Dominic Fenner, is saved.",
+   "es": "El cabezazo de Connor Bexley desde un saque de esquina, preparado por Dominic Fenner, es atajado.",
+   "cs": "Hlavička Connora Bexleyho z rohového kopu po přihrávce Dominica Fennera je chycena."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e42",
+  "moment_ids": [
+   "m101"
+  ],
+  "minute": "61'",
+  "sec": 935.1,
+  "period": 2,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Idris Iredale's header from a corner, set up by Marcus Ashdown, is a big chance saved by goalkeeper Rhys Hallam.",
+   "es": "El cabezazo de Idris Iredale desde un saque de esquina, preparado por Marcus Ashdown, es una gran ocasión atajada por el portero Rhys Hallam.",
+   "cs": "Hlavička Idrise Iredalea z rohového kopu po přihrávce Marcuse Ashdowna je velká šance chycená brankářem Rhysem Hallamem."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e43",
+  "moment_ids": [
+   "m102"
+  ],
+  "minute": "61'",
+  "sec": 935.1,
+  "period": 2,
+  "kind": "pressure",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic apply 38 seconds of pressure, producing 2 shots and 3 corners.",
+   "es": "Redmoor Athletic aplica 38 segundos de presión, generando 2 tiros y 3 saques de esquina.",
+   "cs": "Redmoor Athletic vyvíjí tlak po dobu 38 sekund, což přináší 2 střely a 3 rohové kopy."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e44",
+  "moment_ids": [
+   "m104"
+  ],
+  "minute": "62'",
+  "sec": 978.0,
+  "period": 2,
+  "kind": "substitution",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town substitute: Owen Pickering replaces Marcus Lisle.",
+   "es": "Stonebridge Town sustitución: Owen Pickering reemplaza a Marcus Lisle.",
+   "cs": "Střídání Stonebridge Town: Owen Pickering nahrazuje Marcuse Lisleho."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e45",
+  "moment_ids": [
+   "m106"
+  ],
+  "minute": "63'",
+  "sec": 1075.4,
+  "period": 2,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Cai Pargeter's shot from open play, set up by Stefan Nairn, is blocked by a defender.",
+   "es": "El disparo de Cai Pargeter desde juego abierto, preparado por Stefan Nairn, es bloqueado por un defensor.",
+   "cs": "Střela Caie Pargetera z otevřené hry po přihrávce Stefana Nairna je zablokována obráncem."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e46",
+  "moment_ids": [
+   "m109"
+  ],
+  "minute": "65'",
+  "sec": 1195.9,
+  "period": 2,
+  "kind": "card",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Ravi Yarrow receives a yellow card for a foul on Joel Marlowe.",
+   "es": "Ravi Yarrow recibe una tarjeta amarilla por una falta sobre Joel Marlowe.",
+   "cs": "Ravi Yarrow dostává žlutou kartu za faul na Joela Marlowa."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e47",
+  "moment_ids": [
+   "m110"
+  ],
+  "minute": "66'",
+  "sec": 1209.6,
+  "period": 2,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Nathan Yeoman's header from a Joel Marlowe free kick is saved by goalkeeper Marcus Eastley. Big chance.",
+   "es": "El cabezazo de Nathan Yeoman desde un tiro libre de Joel Marlowe es atajado por el portero Marcus Eastley. Gran ocasión.",
+   "cs": "Hlavička Nathana Yeomana z přímého kopu Joela Marlowa je chycena brankářem Marcusem Eastleym. Velká šance."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e48",
+  "moment_ids": [
+   "m113"
+  ],
+  "minute": "69'",
+  "sec": 1407.4,
+  "period": 2,
+  "kind": "clearance",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Owen Pickering clears the ball for Stonebridge Town.",
+   "es": "Owen Pickering despeja el balón para Stonebridge Town.",
+   "cs": "Owen Pickering odvrací míč pro Stonebridge Town."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e49",
+  "moment_ids": [
+   "m117"
+  ],
+  "minute": "72'",
+  "sec": 1598.8,
+  "period": 2,
+  "kind": "substitution",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Emeka Radley replaces Tomas Holloway for Redmoor Athletic.",
+   "es": "Emeka Radley reemplaza a Tomas Holloway en Redmoor Athletic.",
+   "cs": "Emeka Radley nahrazuje Tomase Hollowaye za Redmoor Athletic."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e50",
+  "moment_ids": [
+   "m120"
+  ],
+  "minute": "75'",
+  "sec": 1795.0,
+  "period": 2,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic control play with 65% possession and 79% field tilt between 72 and 76 minutes.",
+   "es": "Redmoor Athletic controla el juego con un 65% de posesión y un 79% de inclinación del campo entre los minutos 72 y 76.",
+   "cs": "Redmoor Athletic kontroluje hru s 65% držením míče a 79% územní převahou mezi 72. a 76. minutou."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e51",
+  "moment_ids": [
+   "m121"
+  ],
+  "minute": "76'",
+  "sec": 1800.5,
+  "period": 2,
+  "kind": "insight",
+  "nums": [
+   "0",
+   "1",
+   "2",
+   "3",
+   "31",
+   "4",
+   "41",
+   "59",
+   "61",
+   "69",
+   "75",
+   "76"
+  ],
+  "scores": [
+   "1:1",
+   "1:1"
+  ],
+  "text": {
+   "en": "Between 61 and 75 minutes, Redmoor Athletic had 59% possession and 69% field tilt, while Stonebridge Town had 41% possession and 31% field tilt. Both teams had 2 shots, with Redmoor putting 2 on target and Stonebridge 1, the score remaining 1-1.",
+   "es": "Entre los minutos 61 y 75, Redmoor Athletic tuvo un 59% de posesión y un 69% de inclinación de campo, mientras que Stonebridge Town tuvo un 41% de posesión y un 31% de inclinación de campo. Ambos equipos dispararon 2 veces, con Redmoor acertando 2 a puerta y Stonebridge 1, manteniéndose el marcador 1-1.",
+   "cs": "Mezi 61. a 75. minutou měl Redmoor Athletic 59% držení míče a 69% územní převahu, zatímco Stonebridge Town měl 41% držení míče a 31% územní převahu. Oba týmy měly 2 střely, Redmoor dal 2 na branku a Stonebridge 1, skóre zůstává 1-1."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e52",
+  "moment_ids": [
+   "m122"
+  ],
+  "minute": "76'",
+  "sec": 1807.5,
+  "period": 2,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stefan Nairn's shot from open play, set up by Cai Pargeter, is saved by goalkeeper Marcus Eastley.",
+   "es": "El disparo de Stefan Nairn desde juego abierto, habilitado por Cai Pargeter, es detenido por el portero Marcus Eastley.",
+   "cs": "Střela Stefana Nairna z otevřené hry, připravená Caiem Pargeterem, je chycena brankářem Marcusem Eastleym."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e53",
+  "moment_ids": [
+   "m126"
+  ],
+  "minute": "78'",
+  "sec": 1959.6,
+  "period": 2,
+  "kind": "substitution",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Cai Kerridge replaces Marcus Upton for Redmoor Athletic.",
+   "es": "Cai Kerridge reemplaza a Marcus Upton en Redmoor Athletic.",
+   "cs": "Cai Kerridge nahrazuje Marcuse Uptona v Redmoor Athletic."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e54",
+  "moment_ids": [
+   "m132"
+  ],
+  "minute": "80'",
+  "sec": 2090.5,
+  "period": 2,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Connor Bexley's header from a corner, set up by Emeka Harcourt, is blocked by a defender. It's a big chance.",
+   "es": "El cabezazo de Connor Bexley desde un saque de esquina, habilitado por Emeka Harcourt, es bloqueado por un defensor. Es una gran oportunidad.",
+   "cs": "Hlavička Connora Bexleyho z rohu, připravená Emekou Harcourtem, je zablokována obráncem. Je to velká šance."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e55",
+  "moment_ids": [
+   "m133"
+  ],
+  "minute": "80'",
+  "sec": 2090.5,
+  "period": 2,
+  "kind": "pressure",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic pile on pressure with 2 shots and 2 corners over 27 seconds.",
+   "es": "Redmoor Athletic acumula presión con 2 disparos y 2 saques de esquina en 27 segundos.",
+   "cs": "Redmoor Athletic vyvíjí tlak s 2 střelami a 2 rohy během 27 sekund."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e56",
+  "moment_ids": [
+   "m134"
+  ],
+  "minute": "81'",
+  "sec": 2102.4,
+  "period": 2,
+  "kind": "clearance",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Joel Marlowe clears the ball.",
+   "es": "Joel Marlowe despeja el balón.",
+   "cs": "Joel Marlowe odvrací míč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e57",
+  "moment_ids": [
+   "m135"
+  ],
+  "minute": "84'",
+  "sec": 2301.3,
+  "period": 2,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town control the ball between 81' and 84' with 55% possession and 40% field tilt.",
+   "es": "Stonebridge Town controla el balón entre los minutos 81 y 84 con un 55% de posesión y un 40% de inclinación de campo.",
+   "cs": "Stonebridge Town kontroluje míč mezi 81. a 84. minutou s 55% držením míče a 40% územní převahou."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e58",
+  "moment_ids": [
+   "m136"
+  ],
+  "minute": "84'",
+  "sec": 2306.3,
+  "period": 2,
+  "kind": "goal",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "GOAL! Emeka Harcourt scores from open play, assisted by Idris Iredale with a pass. 2-1.",
+   "es": "¡GOL! Emeka Harcourt marca desde juego abierto, asistido por Idris Iredale con un pase. 2-1.",
+   "cs": "GÓL! Emeka Harcourt skóruje z otevřené hry, asistuje Idris Iredale přihrávkou. 2-1."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e59",
+  "moment_ids": [
+   "m139"
+  ],
+  "minute": "87'",
+  "sec": 2474.1,
+  "period": 2,
+  "kind": "shot",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Idris Iredale's shot from open play, set up by Emeka Harcourt, hits the post.",
+   "es": "El disparo de Idris Iredale desde juego abierto, habilitado por Emeka Harcourt, da en el poste.",
+   "cs": "Střela Idrise Iredalea z otevřené hry, připravená Emekou Harcourtem, trefuje tyč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e60",
+  "moment_ids": [
+   "m141"
+  ],
+  "minute": "87'",
+  "sec": 2497.4,
+  "period": 2,
+  "kind": "substitution",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Elliot Trenholm replaces Alfie Brigg for Stonebridge Town.",
+   "es": "Elliot Trenholm reemplaza a Alfie Brigg en Stonebridge Town.",
+   "cs": "Elliot Trenholm nahrazuje Alfieho Brigga v Stonebridge Town."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e61",
+  "moment_ids": [
+   "m144"
+  ],
+  "minute": "90'",
+  "sec": 2694.8,
+  "period": 2,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic control the ball with 57% possession and a 67% field tilt.",
+   "es": "Redmoor Athletic controla el balón con un 57% de posesión y un 67% de dominio de campo.",
+   "cs": "Redmoor Athletic kontroluje míč s 57% držením a 67% převahou v poli."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e62",
+  "moment_ids": [
+   "m145"
+  ],
+  "minute": "90'",
+  "sec": 2699.8,
+  "period": 2,
+  "kind": "added_time",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Six minutes of added time.",
+   "es": "Seis minutos de tiempo añadido.",
+   "cs": "Šest minut nastaveného času."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e63",
+  "moment_ids": [
+   "m147"
+  ],
+  "minute": "90+3'",
+  "sec": 2856.1,
+  "period": 2,
+  "kind": "sequence",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Stonebridge Town complete 10 passes involving 5 players, gaining 24 metres, then lose the ball.",
+   "es": "Stonebridge Town completa 10 pases involucrando a 5 jugadores, avanzando 24 metros, y luego pierde el balón.",
+   "cs": "Stonebridge Town provede 10 přihrávek za účasti 5 hráčů, získá 24 metrů, poté ztratí míč."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e64",
+  "moment_ids": [
+   "m149"
+  ],
+  "minute": "90+6'",
+  "sec": 3048.9,
+  "period": 2,
+  "kind": "phase",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Redmoor Athletic maintain 57% possession and a 48% field tilt.",
+   "es": "Redmoor Athletic mantiene un 57% de posesión y un 48% de dominio de campo.",
+   "cs": "Redmoor Athletic udržuje 57% držení míče a 48% převahu v poli."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e65",
+  "moment_ids": [
+   "m151"
+  ],
+  "minute": "90+7'",
+  "sec": 3064.6,
+  "period": 2,
+  "kind": "period_end",
+  "nums": [],
+  "scores": [],
+  "text": {
+   "en": "Full-time: Redmoor Athletic 2-1 Stonebridge Town.",
+   "es": "Final del partido: Redmoor Athletic 2-1 Stonebridge Town.",
+   "cs": "Konec zápasu: Redmoor Athletic 2-1 Stonebridge Town."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ },
+ {
+  "id": "e66",
+  "moment_ids": [
+   "m151"
+  ],
+  "minute": "90+7'",
+  "sec": 3065.1,
+  "period": 2,
+  "kind": "insight",
+  "nums": [
+   "06",
+   "1",
+   "12",
+   "19",
+   "2",
+   "20",
+   "3",
+   "34",
+   "4",
+   "44",
+   "5",
+   "556",
+   "56",
+   "6",
+   "699",
+   "749",
+   "8",
+   "890",
+   "9"
+  ],
+  "scores": [
+   "2:1",
+   "1:2"
+  ],
+  "text": {
+   "en": "At full-time, Redmoor Athletic had 12 shots with 6 on target and 56% possession, while Stonebridge Town had 9 shots with 5 on target and 44% possession.",
+   "es": "Al final del partido, Redmoor Athletic tuvo 12 disparos, 6 a puerta y un 56% de posesión, mientras que Stonebridge Town tuvo 9 disparos, 5 a puerta y un 44% de posesión.",
+   "cs": "Po skončení zápasu měl Redmoor Athletic 12 střel, z toho 6 na branku, a 56% držení míče, zatímco Stonebridge Town měl 9 střel, z toho 5 na branku, a 44% držení míče."
+  },
+  "status": {
+   "en": "agent",
+   "es": "agent",
+   "cs": "agent"
+  }
+ }
+]
