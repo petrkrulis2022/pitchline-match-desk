@@ -62,6 +62,10 @@ The generated data for seed 6 is committed under `synth/out/match-006/`, so the 
 - The noise levels in the feeds are illustrative, not measurements of any data provider.
 - Agents are orchestrated with plain `asyncio` around Agent Framework agents, not with its workflow builders.
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ## Layout
 
 ```
